@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a first-year master student at [Tsinghua University](https://www.tsinghua.edu.cn/en/), Beijing, china, advised by [Prof. Yu Jiang](https://sites.google.com/site/jiangyu198964/home). I am proud to be a member of the [Software System Security Assurance Group - WingTecher Lab](http://wingtecher.com/homeen). Previously, I received my bachelor's degree in Cybersecurity from [Sichuan University](https://www.scu.edu.cn/index.htm), Chengdu, China, where I was advised by [Prof. Haizhou Wang](http://www.cyber-wang.cn/).
+I am currently a first-year master student at Tsinghua University, Beijing, China, advised by [Prof. Yu Jiang](https://sites.google.com/site/jiangyu198964/home). I am proud to be a member of the [Software System Security Assurance Group - WingTecher Lab](http://wingtecher.com/homeen). Previously, I received my bachelor's degree in Cybersecurity from Sichuan University, Chengdu, China, where I was advised by [Prof. Haizhou Wang](http://www.cyber-wang.cn/).
 
 My interests lies in computer security and privacy, particularly focused on malware analysis, open source intelligence, fuzzing, and IoT security.
 
