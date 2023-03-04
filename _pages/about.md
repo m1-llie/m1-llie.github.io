@@ -17,8 +17,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello world!
-
 I am currently a first-year master student at Tsinghua University, advised by Prof. Yu Jiang. Previously, I received my bachelor's degree in Cybersecurity from Sichuan University, where I was advised by Prof. Haizhou Wang.
 
 My interests lies in opensource intelligence.
