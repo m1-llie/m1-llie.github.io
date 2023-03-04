@@ -35,7 +35,7 @@ Outside of research, I enjoy table tennis, science fictions, hip-hop and skiing.
 - *2022.09*: &nbsp;New journey begins in Tsinghua University！Go purple!
 - *2022.08*: &nbsp;Midas accepted to EMSOFT'22. 🎉
 - *2022.07*: &nbsp;CJI-Framework accepted to IP&M. 🎉
-- *2022.06*: &nbsp;Graduated from Sichuan University. Bye, Chengdu. Bye, pandas.🐼🐼🐼 [Ceremony](https://mp.weixin.qq.com/s/8xPnhNNIVBTAbcWJ0B3YuQ) [Vlog](https://mp.weixin.qq.com/s/5hp2exmWC_AVrnt6am6Xjw)
+- *2022.06*: &nbsp;Graduated from Sichuan University. Bye, Chengdu. Bye, pandas.🐼🐼🐼 [Ceremony](https://mp.weixin.qq.com/s/8xPnhNNIVBTAbcWJ0B3YuQ) / [Vlog](https://mp.weixin.qq.com/s/5hp2exmWC_AVrnt6am6Xjw)
 - *2022.06*: &nbsp;Selected as 'Top10 of 2022'. Thank you for everyone who supports me! [News 四川大学2022年十佳学生](https://mp.weixin.qq.com/s/GsRuXo34gxnd-dSp1M1lqg)
 - *2022.05*: &nbsp;Gave a talk in the School of Cyber Science and Engineering, SCU. [News 网安菁英](https://mp.weixin.qq.com/s/XEt_xmzoEWVw0ZTpsEhDfA)
 
