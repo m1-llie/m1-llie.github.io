@@ -1,4 +1,9 @@
+Welcome to visit my page at [m1llie.tech](https://m1llie.tech) and [m1-llie.github.io](https://m1-llie.github.io).
 
+
+The style is [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io), designed by [Yi Ren](https://github.com/RayeRen).
+
+<!-- 
 <h1 align="center">
 AcadHomepage
 </h1>
@@ -69,4 +74,4 @@ Some examples:
 
 - AcadHomepage incorporates Font Awesome, which is distributed under the terms of the SIL OFL 1.1 and MIT License.
 - AcadHomepage is influenced by the github repo [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes), which is distributed under the MIT License.
-- AcadHomepage is influenced by the github repo [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io), which is distributed under the MIT License.
+- AcadHomepage is influenced by the github repo [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io), which is distributed under the MIT License. -->
