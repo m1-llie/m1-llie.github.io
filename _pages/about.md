@@ -39,7 +39,7 @@ Outside of research, I enjoy tabble tennis, science fictions and hip-hop.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMSOFT'22</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMSOFT'22</div><img src='images/emsoft22.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MIDAS: Safeguarding IoT Devices Against Malware via Real-Time Behavior Auditing](https://ieeexplore.ieee.org/document/9920949)
