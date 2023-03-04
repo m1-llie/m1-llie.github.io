@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently a first-year master student at Tsinghua University, Beijing, China, advised by [Prof. Yu Jiang](https://sites.google.com/site/jiangyu198964/home). I am proud to be a member of the [Software System Security Assurance Group - WingTecher Lab](http://wingtecher.com/homeen). Previously, I received my bachelor's degree in Cybersecurity from Sichuan University, Chengdu, China, where I was advised by [Prof. Haizhou Wang](http://www.cyber-wang.cn/).
 
-My interests lies in computer security and privacy, particularly focused on program analysis, malware analysis, open source intelligence, fuzzing, and IoT security.
+I am broadly interested in real-world computer security and privacy topics, particularly focused on program analysis, malware analysis, open source intelligence, fuzzing, and IoT security.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -120,4 +120,4 @@ Hailin Wang, **Yiwei Hou**, Haizhou Wang
 
 
 
-Webpage Last Updated: 03/05/2023
+Last Updated: 5 March 2023
