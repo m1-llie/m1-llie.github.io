@@ -9,7 +9,7 @@
 title                    : "Yiwei Hou"
 description              : "Security researcher in the WingTecher Lab, School of Software, Tsinghua University."
 repository               : "m1-llie/m1-llie.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : false  #true
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
