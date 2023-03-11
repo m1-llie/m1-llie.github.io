@@ -48,7 +48,7 @@ Outside of research, I enjoy table tennis, science fictions, hip-hop, and skiing
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMSOFT'22</div><img src='images/sp23.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">S&P'23</div><img src='images/sp23.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Limits of I/O Based Ransomware Detection: An Imitation Based Attack]()
