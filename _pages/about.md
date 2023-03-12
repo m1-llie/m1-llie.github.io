@@ -53,7 +53,7 @@ Outside of research, I enjoy table tennis, science fictions, hip-hop, and skiing
 
 [Limits of I/O Based Ransomware Detection: An Imitation Based Attack]()
 
-Chijin Zhou, Lihua Guo, **Yiwei Hou**, Zhenya Ma, Quan Zhang, Yu Jiang
+Chijin Zhou, Lihua Guo, **Yiwei Hou**, Zhenya Ma, Quan Zhang, Mingzhe Wang, Zhe Liu, Yu Jiang
 
 [S&P'23](https://sp2023.ieee-security.org/) / [PDF]() / [DOI]()
 
