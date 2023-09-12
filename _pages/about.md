@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a first-year master student at Tsinghua University, Beijing, China, advised by [Prof. Yu Jiang](https://sites.google.com/site/jiangyu198964/home). I am proud to be a member of the [Software System Security Assurance Group - WingTecher Lab](http://wingtecher.com/homeen). Previously, I received my bachelor's degree in Cybersecurity from Sichuan University, Chengdu, China, where I was advised by [Prof. Haizhou Wang](http://www.cyber-wang.cn/).
+I am currently a second-year master student at Tsinghua University, Beijing, China, advised by [Prof. Yu Jiang](https://sites.google.com/site/jiangyu198964/home). I am proud to be a member of the [Software System Security Assurance Group - WingTecher Lab](http://wingtecher.com/homeen). Previously, I received my bachelor's degree in Cybersecurity from Sichuan University, Chengdu, China, where I was advised by [Prof. Haizhou Wang](http://www.cyber-wang.cn/).
 
-I am a cybersecurity enthusiast and white-hat hacker. I am broadly interested in real-world computer security and privacy topics, particularly focused on program analysis, malware analysis, open source intelligence, fuzzing, and IoT security.
+I am a cybersecurity enthusiast. I am broadly interested in real-world computer security and privacy topics, particularly focused on program analysis, malware analysis, open source intelligence, fuzzing, and IoT security.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -30,13 +30,13 @@ Outside of research, I enjoy table tennis, science fictions, hip-hop, and skiing
 
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-- *2023.03*: &nbsp;Animagus accepted to S&P'23. 🎉
+- *2023.03*: &nbsp;Animagus is accepted to S&P'23. 🎉
 - *2022.11*: &nbsp;Received 2nd-place Scholarship. Thanks, Tsinghua and Jining!
-- *2022.09*: &nbsp;New journey begins in Tsinghua University！Go purple!
-- *2022.08*: &nbsp;Midas accepted to EMSOFT'22. 🎉
-- *2022.07*: &nbsp;CJI-Framework accepted to IP&M. 🎉
+- *2022.09*: &nbsp;New journey begins in Tsinghua University! Go purple!
+- *2022.08*: &nbsp;Midas is accepted to EMSOFT'22. 🎉
+- *2022.07*: &nbsp;CJI-Framework is accepted to IP&M. 🎉
 - *2022.06*: &nbsp;Graduated from Sichuan University. Bye, Chengdu. Bye, pandas.🐼🐼🐼 [Ceremony](https://mp.weixin.qq.com/s/8xPnhNNIVBTAbcWJ0B3YuQ) / [Vlog](https://mp.weixin.qq.com/s/5hp2exmWC_AVrnt6am6Xjw)
-- *2022.06*: &nbsp;Selected as 'Top10 Undergraduate of 2022'. Thank you for everyone who supports me! [News](https://mp.weixin.qq.com/s/GsRuXo34gxnd-dSp1M1lqg)
+- *2022.06*: &nbsp;Selected as 'Top 10 Undergraduate of 2022'. Thank you for everyone who supports me! [News](https://mp.weixin.qq.com/s/GsRuXo34gxnd-dSp1M1lqg)
 - *2022.05*: &nbsp;Gave a talk in the School of Cyber Science and Engineering, SCU. [News 网安菁英](https://mp.weixin.qq.com/s/XEt_xmzoEWVw0ZTpsEhDfA)
 
 
@@ -120,8 +120,8 @@ Hailin Wang, **Yiwei Hou**, Haizhou Wang
 
 
 # 📖 Education
-- *2022.09 - 2025.06 (current)*, M.Eng in Software Engineering, School of Software, Tsinghua University, Beijing.
-- *2018.09 - 2022.06*, B.Eng in Cybersecurity, School of Cyber Science and Engineering, Sichuan University, Chengdu. Ranked 1/172, GPA 3.94/4.0
+- *2022.09 - 2025.06 (current)*, M.Eng in Software Engineering, Tsinghua University.
+- *2018.09 - 2022.06*, B.Eng in Cybersecurity, Sichuan University. Ranked 1/172, GPA 3.94/4.0
 - *2019.07*, Summer School in EECS, University of California, Berkeley.
 
 
@@ -131,9 +131,10 @@ Hailin Wang, **Yiwei Hou**, Haizhou Wang
 
 # 💻 Academic Service
 - Reviewer: Information Processing and Management (IP&M).
+- External reviewer: EMSOFT, ICSE
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Academic Service</div><img src='images/certificate.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
-Webpage Last Updated: 26 June 2023
+Webpage Last Updated: 12 September 2023
