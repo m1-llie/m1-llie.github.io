@@ -113,7 +113,7 @@ Hailin Wang, **Yiwei Hou**, Haizhou Wang
 # 🎖 Honors and Awards
 - *2022.11* 2nd-place Scholarship, Tsinghua University 
 - *2022.06* Outstanding Undergraduate Award, Sichuan Province
-- *2022.06* 'Top10 Undergraduate of 2022', Sichuan University (10 undergraduates among 32,000) 
+- *2022.06* 'Top 10 Undergraduate of 2022', Sichuan University (10 undergraduates among 32,000) 
 - *2020.11* National Scholarship (Top 0.2% in China) 
 - *2019.12* Cybersecurity Merit Student Scholarship
 - *2019.11* National Scholarship (Top 0.2% in China)
@@ -130,7 +130,7 @@ Hailin Wang, **Yiwei Hou**, Haizhou Wang
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Academic Service
-- Reviewer: Information Processing and Management (IP&M).
+- Reviewer: Information Processing and Management (IP&M)
 - External reviewer: EMSOFT, ICSE
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Academic Service</div><img src='images/certificate.png' alt="sym" width="100%"></div></div>
