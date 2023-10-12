@@ -29,10 +29,10 @@ Outside of research, I enjoy table tennis, science fictions, hip-hop, and skiing
 
 
 # 🔥 News
-<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2023.10*: &nbsp;MarauderMap is accepted to ICSE'24. See you in Lisbon🎉
 - *2023.03*: &nbsp;Animagus is accepted to S&P'23. 🎉
-- *2022.11*: &nbsp;Received 2nd-place Scholarship. Thanks, Tsinghua and Jining!
-- *2022.09*: &nbsp;New journey begins in Tsinghua University! Go purple!
+- *2022.11*: &nbsp;Received Tsinghua-Jining Scholarship. Thanks, Tsinghua and Jining.
+- *2022.09*: &nbsp;New journey begins in Tsinghua University. Go purple!
 - *2022.08*: &nbsp;Midas is accepted to EMSOFT'22. 🎉
 - *2022.07*: &nbsp;CJI-Framework is accepted to IP&M. 🎉
 - *2022.06*: &nbsp;Graduated from Sichuan University. Bye, Chengdu. Bye, pandas.🐼🐼🐼 [Ceremony](https://mp.weixin.qq.com/s/8xPnhNNIVBTAbcWJ0B3YuQ) / [Vlog](https://mp.weixin.qq.com/s/5hp2exmWC_AVrnt6am6Xjw)
@@ -46,6 +46,17 @@ Outside of research, I enjoy table tennis, science fictions, hip-hop, and skiing
 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSE'24</div><img src='images/icse24.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+An Empirical Study of Data Disruption by Ransomware Attacks
+
+**Yiwei Hou**, Lihua Guo, Chijin Zhou, Yiwen Xu, Zijing Yin, Shanshan Li, Chengnian Sun, Yu Jiang
+
+[The 46th International Conference on Software Engineering (ICSE'24)](https://conf.researchr.org/home/icse-2024) / Camera-Ready Version is Coming Soon
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">S&P'23</div><img src='images/sp23.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -111,7 +122,7 @@ Hailin Wang, **Yiwei Hou**, Haizhou Wang
 
 
 # 🎖 Honors and Awards
-- *2022.11* 2nd-place Scholarship, Tsinghua University 
+- *2022.11* Tsinghua-Jining Scholarship, Tsinghua University 
 - *2022.06* Outstanding Undergraduate Award, Sichuan Province
 - *2022.06* 'Top 10 Undergraduate of 2022', Sichuan University (10 undergraduates among 32,000) 
 - *2020.11* National Scholarship (Top 0.2% in China) 
@@ -137,4 +148,4 @@ Hailin Wang, **Yiwei Hou**, Haizhou Wang
 <div class='paper-box-text' markdown="1">
 
 
-Webpage Last Updated: 12 September 2023
+Webpage Last Updated: 12 Oct 2023
