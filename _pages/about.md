@@ -141,11 +141,12 @@ Hailin Wang, **Yiwei Hou**, Haizhou Wang
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Academic Service
-- Reviewer: Information Processing and Management (IP&M)
-- External reviewer: EMSOFT, ICSE
+- Reviewer: IP&M
+- External Reviewer: EMSOFT'22, ICSE'24
+- Artifact Evaluation Committee (AEC): CCS'23
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Academic Service</div><img src='images/certificate.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 
-Webpage Last Updated: 12 Oct 2023
+Webpage Last Updated: 21 Oct 2023
