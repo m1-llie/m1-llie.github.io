@@ -31,7 +31,6 @@ Outside of research, I enjoy table tennis, science fictions, hip-hop, and skiing
 # 🔥 News
 - *2023.10*: &nbsp;MarauderMap is accepted to ICSE'24. See you in Lisbon🎉
 - *2023.03*: &nbsp;Animagus is accepted to S&P'23. 🎉
-- *2022.11*: &nbsp;Received Tsinghua-Jining Scholarship. Thanks, Tsinghua and Jining.
 - *2022.09*: &nbsp;New journey begins in Tsinghua University. Go purple!
 - *2022.08*: &nbsp;Midas is accepted to EMSOFT'22. 🎉
 - *2022.07*: &nbsp;CJI-Framework is accepted to IP&M. 🎉
@@ -120,8 +119,8 @@ Hailin Wang, **Yiwei Hou**, Haizhou Wang
 
 
 
-
 # 🎖 Honors and Awards
+- *2023.10* Tsinghua-Jining Scholarship, Tsinghua University 
 - *2022.11* Tsinghua-Jining Scholarship, Tsinghua University 
 - *2022.06* Outstanding Undergraduate Award, Sichuan Province
 - *2022.06* 'Top 10 Undergraduate of 2022', Sichuan University (10 undergraduates among 32,000) 
@@ -149,4 +148,4 @@ Hailin Wang, **Yiwei Hou**, Haizhou Wang
 <div class='paper-box-text' markdown="1">
 
 
-Webpage Last Updated: 21 Oct 2023
+Webpage Last Updated: 30 Oct 2023
