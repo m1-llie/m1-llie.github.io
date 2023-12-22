@@ -52,7 +52,7 @@ An Empirical Study of Data Disruption by Ransomware Attacks
 
 **Yiwei Hou**, Lihua Guo, Chijin Zhou, Yiwen Xu, Zijing Yin, Shanshan Li, Chengnian Sun, Yu Jiang
 
-[The 46th International Conference on Software Engineering (ICSE'24)](https://conf.researchr.org/home/icse-2024) / Camera-Ready Version is Coming Soon
+[The 46th International Conference on Software Engineering (ICSE'24)](https://conf.researchr.org/home/icse-2024) / [PDF](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/MarauderMap_ICSE24.pdf) / [Ransomware Dataset](https://github.com/m1-llie/MarauderMap) / [Code](https://github.com/m1-llie/MarauderMap-code)
 </div>
 </div>
 
@@ -148,4 +148,4 @@ Hailin Wang, **Yiwei Hou**, Haizhou Wang
 <div class='paper-box-text' markdown="1">
 
 
-Webpage Last Updated: 1 Dec 2023
+Webpage Last Updated: 22 Dec 2023
