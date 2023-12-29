@@ -27,7 +27,6 @@ Outside of research, I enjoy table tennis, science fictions, hip-hop, and skiing
 
 
 
-
 # 🔥 News
 - *2023.10*: &nbsp;MarauderMap is accepted to ICSE'24. See you in Lisbon🎉
 - *2023.03*: &nbsp;Animagus is accepted to S&P'23. 🎉
@@ -40,11 +39,8 @@ Outside of research, I enjoy table tennis, science fictions, hip-hop, and skiing
 
 
 
+# 📝 Publications
 
-
-
-
-# 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSE'24</div><img src='images/icse24.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -52,7 +48,7 @@ An Empirical Study of Data Disruption by Ransomware Attacks
 
 **Yiwei Hou**, Lihua Guo, Chijin Zhou, Yiwen Xu, Zijing Yin, Shanshan Li, Chengnian Sun, Yu Jiang
 
-[The 46th International Conference on Software Engineering (ICSE'24)](https://conf.researchr.org/home/icse-2024) / [PDF](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/MarauderMap_ICSE24.pdf) / [Ransomware Dataset](https://github.com/m1-llie/MarauderMap) / [Code](https://github.com/m1-llie/MarauderMap-code)
+[The 46th International Conference on Software Engineering (ICSE'24)](https://conf.researchr.org/home/icse-2024) / [PDF](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/MarauderMap_ICSE24.pdf) / [Ransomware Dataset](https://github.com/m1-llie/MarauderMap) / [Code](https://github.com/m1-llie/MarauderMap-code) / [DOI](https://doi.org/10.1145/3597503.3639090)
 </div>
 </div>
 
@@ -70,7 +66,6 @@ Chijin Zhou, Lihua Guo, **Yiwei Hou**, Zhenya Ma, Quan Zhang, Mingzhe Wang, Zhe 
 </div>
 
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMSOFT'22</div><img src='images/emsoft22.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -80,13 +75,8 @@ Yiwen Xu, Zijing Yin, **Yiwei Hou**, Jianzhong Liu, Yu Jiang
 
 [The 22nd ACM SIGBED International Conference on Embedded Software (EMSOFT'22)](https://esweek.org/emsoft/) and [IEEE Transactions on Computer Aided Design of Integrated Circuits & Systems (TCAD)](https://ieee-ceda.org/publication/ieee-transactions-computer-aided-design-integrated-circuits-systems-tcad) / [PDF](http://wingtecher.com/themes/WingTecherResearch/assets/papers/Emsoft22_Midas.pdf) / [Talk](https://www.youtube.com/watch?v=aVdYldzkVks) / [DOI](https://doi.org/10.1109/TCAD.2022.3200908)
 
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
-
-<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
-
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IP&M 59(5)</div><img src='images/ipm22.jpg' alt="sym" width="100%"></div></div>
@@ -102,7 +92,6 @@ Yiwen Xu, Zijing Yin, **Yiwei Hou**, Jianzhong Liu, Yu Jiang
 </div>
 
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCCN'21</div><img src='images/icccn21.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -112,8 +101,6 @@ Hailin Wang, **Yiwei Hou**, Haizhou Wang
 
 [The 30th International Conference on Computer Communications and Networks (ICCCN'21)](http://www.icccn.org/index.html) / [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9522221&tag=1) / [DOI](https://doi.org/10.1109/ICCCN52240.2021.9522221)
 
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 </div>
 </div>
 
@@ -129,15 +116,13 @@ Hailin Wang, **Yiwei Hou**, Haizhou Wang
 - *2019.11* National Scholarship (Top 0.2% in China)
 
 
+
 # 📖 Education
-- *2022.09 - 2025.06 (current)*, M.Eng in Software Engineering, Tsinghua University.
+- *2022.09 - 2025.06 (expected)*, M.Eng in Software Engineering, Tsinghua University.
 - *2018.09 - 2022.06*, B.Eng in Cybersecurity, Sichuan University. Ranked 1/172, GPA 3.94/4.0
 - *2019.07*, Summer School in EECS, University of California, Berkeley.
 
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Academic Service
 - Reviewer: IP&M
@@ -147,5 +132,6 @@ Hailin Wang, **Yiwei Hou**, Haizhou Wang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Academic Service</div><img src='images/certificate.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-
 Webpage Last Updated: 22 Dec 2023
+
+
