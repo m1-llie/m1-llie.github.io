@@ -48,7 +48,7 @@ An Empirical Study of Data Disruption by Ransomware Attacks
 
 **Yiwei Hou**, Lihua Guo, Chijin Zhou, Yiwen Xu, Zijing Yin, Shanshan Li, Chengnian Sun, Yu Jiang
 
-[The 46th International Conference on Software Engineering (ICSE'24)](https://conf.researchr.org/home/icse-2024) / [PDF](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/MarauderMap_ICSE24.pdf) / [Ransomware Dataset](https://github.com/m1-llie/MarauderMap) / [Code](https://github.com/m1-llie/MarauderMap-code) / [DOI](https://doi.org/10.1145/3597503.3639090)
+[The 46th IEEE/ACM International Conference on Software Engineering (ICSE'24)](https://conf.researchr.org/home/icse-2024) / [PDF](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/MarauderMap_ICSE24.pdf) / [Ransomware Dataset](https://github.com/THU-WingTecher/MarauderMap) / [Code](https://github.com/m1-llie/MarauderMap-code) / [DOI](https://doi.org/10.1145/3597503.3639090)
 </div>
 </div>
 
@@ -99,7 +99,7 @@ Yiwen Xu, Zijing Yin, **Yiwei Hou**, Jianzhong Liu, Yu Jiang
 
 Hailin Wang, **Yiwei Hou**, Haizhou Wang
 
-[The 30th International Conference on Computer Communications and Networks (ICCCN'21)](http://www.icccn.org/index.html) / [PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9522221&tag=1) / [DOI](https://doi.org/10.1109/ICCCN52240.2021.9522221)
+[The 30th IEEE International Conference on Computer Communications and Networks (ICCCN'21)](http://www.icccn.org/index.html) / [PDF](https://ieeexplore.ieee.org/abstract/document/9522221) / [DOI](https://doi.org/10.1109/ICCCN52240.2021.9522221)
 
 </div>
 </div>
@@ -118,20 +118,21 @@ Hailin Wang, **Yiwei Hou**, Haizhou Wang
 
 
 # 📖 Education
-- *2022.09 - 2025.06 (expected)*, M.Eng in Software Engineering, Tsinghua University.
-- *2018.09 - 2022.06*, B.Eng in Cybersecurity, Sichuan University. Ranked 1/172, GPA 3.94/4.0
+- *2022.09 - 2025.06 (expected)*, M.Sc. in Software Engineering, Tsinghua University.
+- *2018.09 - 2022.06*, B.S. in Cybersecurity, Sichuan University. Ranked 1/172, GPA 3.94/4.0
 - *2019.07*, Summer School in EECS, University of California, Berkeley.
 
 
 
 # 💻 Academic Service
-- Reviewer: IP&M
-- External Reviewer: EMSOFT'22, ICSE'24, FSE'24
+- Journal Reviewer: IP&M
 - Artifact Evaluation Committee (AEC): CCS'23
+- External Reviewer: EMSOFT'22, ICSE'24, FSE'24, ISSTA'24
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Academic Service</div><img src='images/certificate.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Webpage Last Updated: 22 Dec 2023
+Webpage Last Updated: 3 Feb 2024
 
 
