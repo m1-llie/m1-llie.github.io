@@ -23,7 +23,7 @@ I am a cybersecurity enthusiast. I am broadly interested in real-world computer 
 
 I am committed to developing practical security tools that prioritize the detection and defense against diverse vulnerabilities. Additionally, I am intrigued by emerging security challenges posed by new technologies, such as LLMs and AR/VR products.
 
-In essence, my academic journey is guided by a relentless pursuit of understanding and mitigating evolving cybersecurity threats, with a focus on both established and emerging domains.
+In essence, my research journey is guided by a relentless pursuit of understanding and mitigating evolving cybersecurity threats, with a focus on both established and emerging domains.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
