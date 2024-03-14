@@ -51,7 +51,7 @@ An Empirical Study of Data Disruption by Ransomware Attacks
 
 **Yiwei Hou**, Lihua Guo, Chijin Zhou, Yiwen Xu, Zijing Yin, Shanshan Li, Chengnian Sun, Yu Jiang
 
-[The 46th IEEE/ACM International Conference on Software Engineering (ICSE'24)](https://conf.researchr.org/home/icse-2024) / [PDF](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/MarauderMap_ICSE24.pdf) / [Ransomware Dataset](https://github.com/THU-WingTecher/MarauderMap) / [Code](https://github.com/m1-llie/MarauderMap-code) / [DOI](https://doi.org/10.1145/3597503.3639090)
+[The 46th IEEE/ACM International Conference on Software Engineering (ICSE'24)](https://conf.researchr.org/home/icse-2024) / [PDF](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/MarauderMap_ICSE24.pdf) / [Ransomware Dataset](https://github.com/THU-WingTecher/MarauderMap) / [Code](https://github.com/m1-llie/MarauderMap-code) / [DOI](https://doi.org/10.1145/3597503.3639090)  Acceptance Rate: 234/1051=22.3%
 </div>
 </div>
 
@@ -63,7 +63,7 @@ Limits of I/O Based Ransomware Detection: An Imitation Based Attack
 
 Chijin Zhou, Lihua Guo, **Yiwei Hou**, Zhenya Ma, Quan Zhang, Mingzhe Wang, Zhe Liu, Yu Jiang
 
-[The 44th IEEE Symposium on Security and Privacy (S&P'23)](https://sp2023.ieee-security.org/) / [PDF](http://wingtecher.com/themes/WingTecherResearch/assets/papers/animagus-SP23.pdf) / [Code](https://github.com/ChijinZ/Animagus) / [Talk](https://www.youtube.com/watch?v=cDC0Vwieez0) / [DOI](https://doi.ieeecomputersociety.org/10.1109/SP46215.2023.00170)
+[The 44th IEEE Symposium on Security and Privacy (S&P'23)](https://sp2023.ieee-security.org/) / [PDF](http://wingtecher.com/themes/WingTecherResearch/assets/papers/animagus-SP23.pdf) / [Code](https://github.com/ChijinZ/Animagus) / [Talk](https://www.youtube.com/watch?v=cDC0Vwieez0) / [DOI](https://doi.ieeecomputersociety.org/10.1109/SP46215.2023.00170)  Acceptance Rate: 195/1147=17.0%
 
 </div>
 </div>
