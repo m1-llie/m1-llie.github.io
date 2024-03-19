@@ -21,9 +21,7 @@ I am currently a second-year master student at Tsinghua University, Beijing, Chi
 
 I am a cybersecurity enthusiast. I am broadly interested in real-world computer security and privacy topics, particularly focused on program analysis, malware analysis, open source intelligence, fuzzing, and IoT security.
 
-I am committed to developing practical security tools that prioritize the detection and defense against diverse vulnerabilities. Additionally, I am intrigued by emerging security challenges posed by new technologies, such as LLMs and AR/VR products.
-
-In essence, my research journey is guided by a relentless pursuit of understanding and mitigating evolving cybersecurity threats, with a focus on both established and emerging domains.
+I am committed to developing practical security tools that prioritize the detection and defense against diverse vulnerabilities for software and systems. In essence, my research journey is guided by a relentless pursuit of understanding and mitigating evolving computer security threats, with a focus on both established and emerging domains.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -31,9 +29,9 @@ Outside of research, I enjoy table tennis, running, livehouse bands performance,
 
 
 # 🔥 News
-- *2023.10*: &nbsp;MarauderMap is accepted to ICSE'24. See you in Lisbon🎉
+- *2023.10*: &nbsp;MarauderMap is accepted to ICSE'24. Let's meet in Lisbon, Portugal🎉
 - *2023.03*: &nbsp;Animagus is accepted to S&P'23. 🎉
-- *2022.09*: &nbsp;New journey begins in Tsinghua University. Go purple!
+- *2022.09*: &nbsp;New journey begins in Tsinghua University. Go Purple!
 - *2022.08*: &nbsp;Midas is accepted to EMSOFT'22. 🎉
 - *2022.07*: &nbsp;CJI-Framework is accepted to IP&M. 🎉
 - *2022.06*: &nbsp;Graduated from Sichuan University. Bye, Chengdu. Bye, pandas.🐼🐼🐼 [Ceremony](https://mp.weixin.qq.com/s/8xPnhNNIVBTAbcWJ0B3YuQ) / [Vlog](https://mp.weixin.qq.com/s/5hp2exmWC_AVrnt6am6Xjw)
@@ -114,6 +112,7 @@ Hailin Wang, **Yiwei Hou**, Haizhou Wang
 
 
 # 🎖 Honors and Awards
+- *2024.04* Deng Feng Fund for International Conference Travel, Tsinghua University
 - *2023.10* Tsinghua-Jining Scholarship, Tsinghua University 
 - *2022.11* Tsinghua-Jining Scholarship, Tsinghua University 
 - *2022.06* Outstanding Undergraduate Award, Sichuan Province
@@ -132,14 +131,14 @@ Hailin Wang, **Yiwei Hou**, Haizhou Wang
 
 
 # 💻 Academic Service
-- Journal Reviewer: IP&M
-- Artifact Evaluation Committee (AEC): CCS'23
+- Journal Reviewer: Information Processing & Management
+- Artifact Evaluation Committee (AEC): CCS'23, ISSTA'24
 - External Reviewer: EMSOFT'22, ICSE'24, FSE'24, ISSTA'24
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Academic Service</div><img src='images/certificate.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Webpage Last Updated: 10 Mar 2024
+Webpage Last Updated: 18 Mar 2024
 
 
