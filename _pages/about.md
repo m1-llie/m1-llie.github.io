@@ -30,7 +30,7 @@ Outside of research, I enjoy table tennis, running, livehouse bands performance,
 
 # 🔥 News
 - *2023.10*: &nbsp;MarauderMap is accepted to ICSE'24. Let's meet in Lisbon, Portugal🎉
-- *2023.03*: &nbsp;Animagus is accepted to S&P'23. 🎉
+- *2023.03*: &nbsp;Animagus is accepted to Oakland'23. 🎉
 - *2022.09*: &nbsp;New journey begins in Tsinghua University. Go Purple!
 - *2022.08*: &nbsp;Midas is accepted to EMSOFT'22. 🎉
 - *2022.07*: &nbsp;CJI-Framework is accepted to IP&M. 🎉
@@ -56,14 +56,14 @@ Acceptance Rate: 234/1051=22.3%
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">S&P'23</div><img src='images/sp23.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Oakland'23</div><img src='images/sp23.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Limits of I/O Based Ransomware Detection: An Imitation Based Attack
 
 Chijin Zhou, Lihua Guo, **Yiwei Hou**, Zhenya Ma, Quan Zhang, Mingzhe Wang, Zhe Liu, Yu Jiang
 
-[The 44th IEEE Symposium on Security and Privacy (S&P'23)](https://sp2023.ieee-security.org/) / [PDF](http://wingtecher.com/themes/WingTecherResearch/assets/papers/animagus-SP23.pdf) / [Code](https://github.com/ChijinZ/Animagus) / [Talk](https://www.youtube.com/watch?v=cDC0Vwieez0) / [DOI](https://doi.ieeecomputersociety.org/10.1109/SP46215.2023.00170)
+[The 44th IEEE Symposium on Security and Privacy (Oakland'23)](https://sp2023.ieee-security.org/) / [PDF](http://wingtecher.com/themes/WingTecherResearch/assets/papers/animagus-SP23.pdf) / [Code](https://github.com/ChijinZ/Animagus) / [Talk](https://www.youtube.com/watch?v=cDC0Vwieez0) / [DOI](https://doi.ieeecomputersociety.org/10.1109/SP46215.2023.00170)
 
 Acceptance Rate: 195/1147=17.0%
 
