@@ -43,7 +43,7 @@ Outside of research, I enjoy table tennis, running, livehouse bands performance,
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSE'24</div><img src='images/icse24.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-An Empirical Study of Data Disruption by Ransomware Attacks
+**An Empirical Study of Data Disruption by Ransomware Attacks**
 
 **Yiwei Hou**, Lihua Guo, Chijin Zhou, Yiwen Xu, Zijing Yin, Shanshan Li, Chengnian Sun, Yu Jiang
 
@@ -59,7 +59,7 @@ Acceptance Rate: 234/1051=22.3%
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Oakland'23</div><img src='images/sp23.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Limits of I/O Based Ransomware Detection: An Imitation Based Attack
+**Limits of I/O Based Ransomware Detection: An Imitation Based Attack**
 
 Chijin Zhou, Lihua Guo, **Yiwei Hou**, Zhenya Ma, Quan Zhang, Mingzhe Wang, Zhe Liu, Yu Jiang
 
@@ -76,7 +76,7 @@ Acceptance Rate: 195/1147=17.0%
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMSOFT'22</div><img src='images/emsoft22.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-MIDAS: Safeguarding IoT Devices Against Malware via Real-Time Behavior Auditing
+**MIDAS: Safeguarding IoT Devices Against Malware via Real-Time Behavior Auditing**
 
 Yiwen Xu, Zijing Yin, **Yiwei Hou**, Jianzhong Liu, Yu Jiang
 
@@ -93,11 +93,11 @@ IEEE Transactions on Computer Aided Design of Integrated Circuits & Systems (TCA
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IP&M 59(5)</div><img src='images/ipm22.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Identification of Chinese Dark Jargons in Telegram Underground Markets Using Context-oriented and Linguistic Features
+**Identification of Chinese Dark Jargons in Telegram Underground Markets Using Context-oriented and Linguistic Features**
 
 **Yiwei Hou**, Hailin Wang, Haizhou Wang
 
-Information Processing and Management (IP&M 59(5))
+Information Processing and Management (IP&M 2022 59(5))
 
 [PDF](https://www.sciencedirect.com/science/article/abs/pii/S030645732200142X) / [Code](https://github.com/m1-llie/CJI-Framework) / [Dataset](https://github.com/m1-llie/TUMCC) / [DOI](https://doi.org/10.1016/j.ipm.2022.103033)
 
@@ -108,7 +108,7 @@ Information Processing and Management (IP&M 59(5))
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCCN'21</div><img src='images/icccn21.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-A Novel Framework of Identifying Chinese Jargons for Telegram Underground Markets
+**A Novel Framework of Identifying Chinese Jargons for Telegram Underground Markets**
 
 Hailin Wang, **Yiwei Hou**, Haizhou Wang
 
@@ -146,7 +146,7 @@ The 30th IEEE International Conference on Computer Communications and Networks (
 - External Reviewer: EMSOFT'22, ICSE'24, FSE'24, ISSTA'24
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Spring</div><img src='images/spring.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 Spring in THU</div><img src='images/spring.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Webpage Last Updated: 8 April 2024
