@@ -47,7 +47,9 @@ An Empirical Study of Data Disruption by Ransomware Attacks
 
 **Yiwei Hou**, Lihua Guo, Chijin Zhou, Yiwen Xu, Zijing Yin, Shanshan Li, Chengnian Sun, Yu Jiang
 
-[The 46th IEEE/ACM International Conference on Software Engineering (ICSE'24)](https://conf.researchr.org/home/icse-2024) / [PDF](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/MarauderMap_ICSE24.pdf) / [Ransomware Dataset](https://github.com/THU-WingTecher/MarauderMap) / [Code](https://github.com/m1-llie/MarauderMap-code) / [DOI](https://doi.org/10.1145/3597503.3639090)
+The 46th IEEE/ACM International Conference on Software Engineering (ICSE'24)
+
+[PDF](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/MarauderMap_ICSE24.pdf) / [Dataset](https://github.com/THU-WingTecher/MarauderMap) / [Code](https://github.com/m1-llie/MarauderMap-code) / [DOI](https://doi.org/10.1145/3597503.3639090)
 
 Acceptance Rate: 234/1051=22.3%
 </div>
@@ -61,7 +63,9 @@ Limits of I/O Based Ransomware Detection: An Imitation Based Attack
 
 Chijin Zhou, Lihua Guo, **Yiwei Hou**, Zhenya Ma, Quan Zhang, Mingzhe Wang, Zhe Liu, Yu Jiang
 
-[The 44th IEEE Symposium on Security and Privacy (Oakland'23)](https://sp2023.ieee-security.org/) / [PDF](http://wingtecher.com/themes/WingTecherResearch/assets/papers/animagus-SP23.pdf) / [Code](https://github.com/ChijinZ/Animagus) / [Talk](https://www.youtube.com/watch?v=cDC0Vwieez0) / [DOI](https://doi.ieeecomputersociety.org/10.1109/SP46215.2023.00170)
+The 44th IEEE Symposium on Security and Privacy (IEEE S&P / Oakland'23)
+
+[PDF](http://wingtecher.com/themes/WingTecherResearch/assets/papers/animagus-SP23.pdf) / [Code](https://github.com/ChijinZ/Animagus) / [Talk](https://www.youtube.com/watch?v=cDC0Vwieez0) / [DOI](https://doi.ieeecomputersociety.org/10.1109/SP46215.2023.00170)
 
 Acceptance Rate: 195/1147=17.0%
 
@@ -76,7 +80,11 @@ MIDAS: Safeguarding IoT Devices Against Malware via Real-Time Behavior Auditing
 
 Yiwen Xu, Zijing Yin, **Yiwei Hou**, Jianzhong Liu, Yu Jiang
 
-[The 22nd ACM SIGBED International Conference on Embedded Software (EMSOFT'22)](https://esweek.org/emsoft/) and [IEEE Transactions on Computer Aided Design of Integrated Circuits & Systems (TCAD)](https://ieee-ceda.org/publication/ieee-transactions-computer-aided-design-integrated-circuits-systems-tcad) / [PDF](http://wingtecher.com/themes/WingTecherResearch/assets/papers/Emsoft22_Midas.pdf) / [Talk](https://www.youtube.com/watch?v=aVdYldzkVks) / [DOI](https://doi.org/10.1109/TCAD.2022.3200908)
+The 22nd ACM SIGBED International Conference on Embedded Software (EMSOFT'22)
+
+IEEE Transactions on Computer Aided Design of Integrated Circuits & Systems (TCAD 2022)
+
+[PDF](http://wingtecher.com/themes/WingTecherResearch/assets/papers/Emsoft22_Midas.pdf) / [Talk](https://www.youtube.com/watch?v=aVdYldzkVks) / [DOI](https://doi.org/10.1109/TCAD.2022.3200908)
 
 </div>
 </div>
@@ -89,7 +97,9 @@ Identification of Chinese Dark Jargons in Telegram Underground Markets Using Con
 
 **Yiwei Hou**, Hailin Wang, Haizhou Wang
 
-[Information Processing and Management (IP&M 59(5))](https://www.sciencedirect.com/journal/information-processing-and-management) / [PDF](https://www.sciencedirect.com/science/article/abs/pii/S030645732200142X) / [Code](https://github.com/m1-llie/CJI-Framework) / [Data](https://github.com/m1-llie/TUMCC) / [DOI](https://doi.org/10.1016/j.ipm.2022.103033)
+Information Processing and Management (IP&M 59(5))
+
+[PDF](https://www.sciencedirect.com/science/article/abs/pii/S030645732200142X) / [Code](https://github.com/m1-llie/CJI-Framework) / [Dataset](https://github.com/m1-llie/TUMCC) / [DOI](https://doi.org/10.1016/j.ipm.2022.103033)
 
 </div>
 </div>
@@ -102,7 +112,9 @@ A Novel Framework of Identifying Chinese Jargons for Telegram Underground Market
 
 Hailin Wang, **Yiwei Hou**, Haizhou Wang
 
-[The 30th IEEE International Conference on Computer Communications and Networks (ICCCN'21)](http://www.icccn.org/index.html) / [PDF](https://ieeexplore.ieee.org/abstract/document/9522221) / [DOI](https://doi.org/10.1109/ICCCN52240.2021.9522221)
+The 30th IEEE International Conference on Computer Communications and Networks (ICCCN'21)
+
+[PDF](https://ieeexplore.ieee.org/abstract/document/9522221) / [DOI](https://doi.org/10.1109/ICCCN52240.2021.9522221)
 
 </div>
 </div>
