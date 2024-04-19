@@ -27,6 +27,7 @@ Outside of research, I enjoy table tennis, running, livehouse bands performance,
 
 
 # 🔥 News
+- *2024.04*: &nbsp;Gave a talk in ICSE'24 research track. Shout out to the new friends I met in Lisbon!
 - *2023.10*: &nbsp;MarauderMap is accepted to ICSE'24. Let's meet in Lisbon, Portugal next April🎉
 - *2023.03*: &nbsp;Animagus is accepted to Oakland'23. 🎉
 - *2022.09*: &nbsp;New journey begins in Tsinghua University. Go Purple!
@@ -49,7 +50,7 @@ Outside of research, I enjoy table tennis, running, livehouse bands performance,
 
 The 46th IEEE/ACM International Conference on Software Engineering (ICSE'24)
 
-[PDF](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/MarauderMap_ICSE24.pdf) / [Dataset](https://github.com/THU-WingTecher/MarauderMap) / [Code](https://github.com/m1-llie/MarauderMap-code) / [DOI](https://doi.org/10.1145/3597503.3639090)
+[PDF](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/MarauderMap_ICSE24.pdf) / [Dataset](https://github.com/THU-WingTecher/MarauderMap) / [Code](https://github.com/m1-llie/MarauderMap-code) / [Slides](https://m1llie.tech/files/ICSE24-MarauderMap.pdf) / [DOI](https://doi.org/10.1145/3597503.3639090)
 
 Acceptance Rate: 234/1051=22.3%
 </div>
@@ -149,7 +150,15 @@ The 30th IEEE International Conference on Computer Communications and Networks (
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 Spring in THU</div><img src='images/spring.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Webpage Last Updated: 8 April 2024
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSE24 in Lisbon</div><img src='images/ICSE24-attendence.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSE24 in Lisbon</div><img src='images/ICSE24-attendence-2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+Webpage Last Updated: 18 April 2024
 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Academic Service</div><img src='images/certificate.png' alt="sym" width="100%"></div></div>
