@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a second-year master student at Tsinghua University, Beijing, China, advised by [Prof. Yu Jiang](https://sites.google.com/site/jiangyu198964/home). I am proud to be a member of the [Software System Security Assurance Group - WingTecher Lab](http://wingtecher.com/homeen). Previously, I received my bachelor's degree in Cybersecurity from Sichuan University, Chengdu, China, where I was advised by [Prof. Haizhou Wang](http://www.cyber-wang.cn/).
+I am currently a second-year master student at Tsinghua University, Beijing, China, advised by [Prof. Yu Jiang](https://sites.google.com/site/jiangyu198964/home). I am proud to be a member of the [Software System Security Assurance Group - WingTecher Lab](http://wingtecher.com/homeen). Previously, I received my bachelor's degree in Cybersecurity from Sichuan University, Chengdu, China.
 
 I am interested in the intersection of data, security, and system, with a focus on program analysis, malware analysis and mitigation, data and privacy protection, fuzzing, and IoT security. Guided by a relentless pursuit of understanding and mitigating evolving computer security threats, I am committed to designing and developing practical security tools that prioritize the detection and defense against diverse vulnerabilities for software and systems. My research journey explores both established and emerging domains, aiming to contribute to the broader field of computer security through innovative solutions.
 
@@ -135,8 +135,8 @@ The 30th IEEE International Conference on Computer Communications and Networks (
 
 
 # 📖 Education
-- *2022.09 - 2025.06 (expected)*, M.Sc. in Software Engineering, Tsinghua University.
-- *2018.09 - 2022.06*, B.S. in Cybersecurity, Sichuan University. Ranked 1/172, GPA 3.94/4.0
+- *2022.09 - 2025.06 (expected)*, M.Eng. in Software Engineering, Tsinghua University.
+- *2018.09 - 2022.06*, B.Eng. in Cybersecurity, Sichuan University. Ranked 1/172, GPA 3.94/4.0
 - *2019.07*, Undergraduate Summer School in EECS, University of California, Berkeley.
 
 
@@ -144,10 +144,10 @@ The 30th IEEE International Conference on Computer Communications and Networks (
 # 💻 Academic Service
 - Journal Reviewer: Information Processing & Management
 - Artifact Evaluation Committee (AEC): CCS'23, ISSTA'24
-- External Reviewer: EMSOFT'22, ICSE'24, FSE'24, ISSTA'24
+- External Reviewer: EMSOFT'22, ICSE'24, FSE'24, ISSTA'24, EMSOFT'24, ICSE'25
 
 
-<!-- Webpage Last Updated: 18 April 2024 -->
+<!-- Webpage Last Updated: 6 May 2024 -->
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 Spring in THU</div><img src='images/spring.png' alt="sym" width="100%"></div></div>
