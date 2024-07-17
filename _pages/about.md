@@ -27,7 +27,7 @@ Outside of research, I enjoy table tennis, running, livehouse bands performance,
 
 
 # 🔥 News
-- *2024.07*: &nbsp;I am spending this summer at the University of Chicago as a non-degree visiting student, hosted by [Prof. Grant Ho](https://people.cs.uchicago.edu/~grantho/). Excited!
+- *2024.07*: &nbsp;I will spend this summer at the University of Chicago as a visiting student researcher, hosted by [Prof. Grant Ho](https://people.cs.uchicago.edu/~grantho/). Excited!
 - *2024.04*: &nbsp;Gave a talk in ICSE'24 research track. Shout out to the new friends I met in Lisbon!
 - *2023.10*: &nbsp;MarauderMap is accepted to ICSE'24. Let's meet in Lisbon, Portugal next April🎉
 - *2023.03*: &nbsp;Animagus is accepted to Oakland'23. 🎉
