@@ -20,7 +20,7 @@ redirect_from:
 I am currently a master student at Tsinghua University, Beijing, China, advised by [Prof. Yu Jiang](https://sites.google.com/site/jiangyu198964/home). I am proud to be a member of the [Software System Security Assurance Group - WingTecher Lab](http://wingtecher.com/homeen). Previously, I received my bachelor's degree in Cybersecurity from Sichuan University, Chengdu, China.
 
 <!-- I am interested in the intersection of data, security and system, with a focus on program analysis, malware analysis and mitigation, data and privacy protection, fuzzing, and IoT security.  -->
-I am interested in the intersection of data, security, and systems. To understand and mitigate evolving computer security threats, I work to design and develop practical security tools to detect and defend against a wide range of vulnerabilities in software and systems, e.g., attack investigation (S&P'23, ICSE'24), detection (ICCCN'21, IP&M 2022), and defense (EMSOFT'22). 
+I am interested in the intersection of data, security, and systems. To understand and mitigate evolving computer security threats, I work to design and develop practical security tools to detect and defend against a wide range of vulnerabilities in software and systems, e.g., attack investigation (S&P'23, ICSE'24), detection and defense (ICCCN'21, IP&M 2022, EMSOFT'22, NDSS'25-UnderReview). 
 
 <!-- My research journey explores both established and emerging domains, aiming to contribute to the broader field of computer security through innovative solutions. -->
 
@@ -28,7 +28,9 @@ I am interested in the intersection of data, security, and systems. To understan
 
 <!-- Outside of research, I enjoy table tennis, running, livehouse bands performance, science fictions, and fantacy novels. -->
 
-I am applying for a Ph.D. position for 2025 fall. I would appreciate any information you can provide!
+<!-- I am applying for a Ph.D. position for 2025 fall. I would appreciate any information you can provide! -->
+
+<span style="color:#ff0000;word-break: break-all;">I am applying for a Ph.D. position for 2025 fall. I would appreciate any information you can provide!</span>
 
 
 # News
