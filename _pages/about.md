@@ -28,8 +28,6 @@ I am interested in the intersection of data, security, and systems. To understan
 
 <!-- Outside of research, I enjoy table tennis, running, livehouse bands performance, science fictions, and fantacy novels. -->
 
-<!-- I am applying for a Ph.D. position for 2025 fall. I would appreciate any information you can provide! -->
-
 <span style="color:#ff0000;word-break: break-all;">I am applying for a Ph.D. position for 2025 fall. I would appreciate any information you can provide!</span>
 
 
@@ -169,6 +167,7 @@ The 30th IEEE International Conference on Computer Communications and Networks (
 <div class='paper-box-text' markdown="1">
 
 
+<span style="color:#808080;word-break: break-all;">Webpage Last Updated: August 18, 2024</span>
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Academic Service</div><img src='images/certificate.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
