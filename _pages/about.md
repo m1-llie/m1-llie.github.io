@@ -32,16 +32,16 @@ I am applying for a Ph.D. position for 2025 fall. I would appreciate any informa
 
 
 # News
-- *2024.07*: &nbsp;I am spending this summer at the University of Chicago as a visiting student researcher, hosted by [Prof. Grant Ho](https://people.cs.uchicago.edu/~grantho/). Excited!
-- *2024.04*: &nbsp;Gave a talk in ICSE'24 research track. Shout out to the new friends I met in Lisbon!
-- *2023.10*: &nbsp;MarauderMap is accepted to ICSE'24. Let's meet in Lisbon, Portugal next April.🎉
-- *2023.03*: &nbsp;Animagus is accepted to S&P'23. 🎉
-- *2022.09*: &nbsp;New journey begins at Tsinghua University. Go Purple!
-- *2022.08*: &nbsp;Midas is accepted to EMSOFT'22. 🎉
-- *2022.07*: &nbsp;CJI-Framework is accepted to IP&M. 🎉
-- *2022.06*: &nbsp;Graduated from Sichuan University. Bye, Chengdu. Bye, pandas.🐼🐼🐼 [Ceremony](https://mp.weixin.qq.com/s/8xPnhNNIVBTAbcWJ0B3YuQ) / [Vlog](https://mp.weixin.qq.com/s/5hp2exmWC_AVrnt6am6Xjw)
-- *2022.06*: &nbsp;Selected as 'Top 10 Undergraduate of 2022'. Thank you for everyone who supports me! [News](https://mp.weixin.qq.com/s/GsRuXo34gxnd-dSp1M1lqg)
-- *2022.05*: &nbsp;Gave a talk in the School of Cyber Science and Engineering, SCU. [News 网安菁英](https://mp.weixin.qq.com/s/XEt_xmzoEWVw0ZTpsEhDfA)
+- *07/2024*: &nbsp;I am spending this summer at the University of Chicago in the USA as a visiting student researcher, hosted by [Prof. Grant Ho](https://people.cs.uchicago.edu/~grantho/). Excited!
+- *04/2024*: &nbsp;Gave a talk in ICSE'24 research track. Shout out to the new friends I met in Lisbon!
+- *10/2023*: &nbsp;MarauderMap is accepted to ICSE'24. Let's meet in Lisbon, Portugal next April. 🎉
+- *03/2023*: &nbsp;Animagus is accepted to S&P'23. 🎉
+- *09/2022*: &nbsp;New journey begins at Tsinghua University. Go Purple!
+- *08/2022*: &nbsp;Midas is accepted to EMSOFT'22. 🎉
+- *07/2022*: &nbsp;CJI-Framework is accepted to IP&M. 🎉
+- *06/2022*: &nbsp;Graduated from Sichuan University. Bye, Chengdu. Bye, pandas.🐼🐼🐼 [Ceremony](https://mp.weixin.qq.com/s/8xPnhNNIVBTAbcWJ0B3YuQ) / [Vlog](https://mp.weixin.qq.com/s/5hp2exmWC_AVrnt6am6Xjw)
+- *06/2022*: &nbsp;Selected as 'Top 10 Undergraduate of 2022'. Thank you for everyone who supports me! [News](https://mp.weixin.qq.com/s/GsRuXo34gxnd-dSp1M1lqg)
+- *05/2022*: &nbsp;Gave a talk in the School of Cyber Science and Engineering, SCU. [News 网安菁英](https://mp.weixin.qq.com/s/XEt_xmzoEWVw0ZTpsEhDfA)
 
 
 
@@ -129,21 +129,21 @@ The 30th IEEE International Conference on Computer Communications and Networks (
 
 
 # Honors and Awards
-- *2024.03* Deng Feng Fund for International Conference Travel, Tsinghua University
-- *2023.10* Excellent Comprehensive Scholarship, Tsinghua University 
-- *2022.11* Excellent Comprehensive Scholarship, Tsinghua University 
-- *2022.06* Outstanding Undergraduate Award, Sichuan Province
-- *2022.06* 'Top 10 Undergraduate of 2022', Sichuan University (10 undergraduates among 32,000+) 
-- *2020.11* National Scholarship, Ministry of Education of P.R. China (Top 0.2% in China) 
-- *2019.12* Cybersecurity Merit Student Scholarship, Sichuan University
-- *2019.11* National Scholarship, Ministry of Education of P.R. China (Top 0.2% in China)
+- *03/2024* Deng Feng Fund for International Conference Travel, Tsinghua University
+- *10/2023* Excellent Comprehensive Scholarship, Tsinghua University 
+- *11/2022* Excellent Comprehensive Scholarship, Tsinghua University 
+- *06/2022* Outstanding Undergraduate Award, Sichuan Province
+- *06/2022* 'Top 10 Undergraduate of 2022', Sichuan University (10 undergraduates among 32,000+) 
+- *11/2020* National Scholarship, Ministry of Education of P.R. China (Top 0.2% in China) 
+- *12/2019* Cybersecurity Merit Student Scholarship, Sichuan University
+- *11/2019* National Scholarship, Ministry of Education of P.R. China (Top 0.2% in China)
 
 
 
 # Education
-- *2022.09 - 2025.06 (expected)*, M.Eng. in Software Engineering, Tsinghua University.
-- *2018.09 - 2022.06*, B.Eng. in Cybersecurity, Sichuan University. Ranked 1/172, GPA 3.94/4.0
-- *2019.07*, Undergraduate Summer School in EECS, University of California, Berkeley.
+- *09/2022 - 06/2025(expected)*, M.Eng. in Software Engineering, Tsinghua University.
+- *09/2018 - 06/2022*, B.Eng. in Cybersecurity, Sichuan University. Ranked 1/172, GPA 3.94/4.0
+- *07/2019*, Summer Session in EECS, University of California, Berkeley.
 
 
 
