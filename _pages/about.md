@@ -19,18 +19,21 @@ redirect_from:
 
 I am currently a second-year master student at Tsinghua University, Beijing, China, advised by [Prof. Yu Jiang](https://sites.google.com/site/jiangyu198964/home). I am proud to be a member of the [Software System Security Assurance Group - WingTecher Lab](http://wingtecher.com/homeen). Previously, I received my bachelor's degree in Cybersecurity from Sichuan University, Chengdu, China.
 
-I am interested in the intersection of data, security, and system, with a focus on program analysis, malware analysis and mitigation, data and privacy protection, fuzzing, and IoT security. Guided by a relentless pursuit of understanding and mitigating evolving computer security threats, I am committed to designing and developing practical security tools that prioritize the detection and defense against diverse vulnerabilities for software and systems. My research journey explores both established and emerging domains, aiming to contribute to the broader field of computer security through innovative solutions.
+<!-- I am interested in the intersection of data, security and system, with a focus on program analysis, malware analysis and mitigation, data and privacy protection, fuzzing, and IoT security.  -->
+I am interested in the intersection of data, security, and systems. To understand and mitigate evolving computer security threats, I work to design and develop practical security tools to detect and defend against a wide range of vulnerabilities in software and systems. My research journey explores both established and emerging domains, aiming to contribute to the broader field of computer security through innovative solutions.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 Outside of research, I enjoy table tennis, running, livehouse bands performance, science fictions, and fantacy novels.
 
+I plan to enter a Ph.D. program after I graduate from Tsinghua in June 2025.
 
-# 🔥 News
+
+# News
 - *2024.07*: &nbsp;I am spending this summer at the University of Chicago as a visiting student researcher, hosted by [Prof. Grant Ho](https://people.cs.uchicago.edu/~grantho/). Excited!
 - *2024.04*: &nbsp;Gave a talk in ICSE'24 research track. Shout out to the new friends I met in Lisbon!
-- *2023.10*: &nbsp;MarauderMap is accepted to ICSE'24. Let's meet in Lisbon, Portugal next April🎉
-- *2023.03*: &nbsp;Animagus is accepted to Oakland'23. 🎉
+- *2023.10*: &nbsp;MarauderMap is accepted to ICSE'24. Let's meet in Lisbon, Portugal next April.🎉
+- *2023.03*: &nbsp;Animagus is accepted to S&P'23. 🎉
 - *2022.09*: &nbsp;New journey begins at Tsinghua University. Go Purple!
 - *2022.08*: &nbsp;Midas is accepted to EMSOFT'22. 🎉
 - *2022.07*: &nbsp;CJI-Framework is accepted to IP&M. 🎉
@@ -40,7 +43,7 @@ Outside of research, I enjoy table tennis, running, livehouse bands performance,
 
 
 
-# 📝 Publications
+# Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSE'24</div><img src='images/icse24.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -123,7 +126,7 @@ The 30th IEEE International Conference on Computer Communications and Networks (
 
 
 
-# 🎖 Honors and Awards
+# Honors and Awards
 - *2024.03* Deng Feng Fund for International Conference Travel, Tsinghua University
 - *2023.10* Tsinghua-Jining Scholarship, Tsinghua University 
 - *2022.11* Tsinghua-Jining Scholarship, Tsinghua University 
@@ -135,14 +138,14 @@ The 30th IEEE International Conference on Computer Communications and Networks (
 
 
 
-# 📖 Education
+# Education
 - *2022.09 - 2025.06 (expected)*, M.Eng. in Software Engineering, Tsinghua University.
 - *2018.09 - 2022.06*, B.Eng. in Cybersecurity, Sichuan University. Ranked 1/172, GPA 3.94/4.0
 - *2019.07*, Undergraduate Summer School in EECS, University of California, Berkeley.
 
 
 
-# 💻 Academic Service
+# Academic Service
 - Journal Reviewer: Information Processing & Management
 - Artifact Evaluation Committee (AEC): CCS'23, ISSTA'24
 - External Reviewer: EMSOFT'22, ICSE'24, FSE'24, ISSTA'24, EMSOFT'24, ICSE'25
