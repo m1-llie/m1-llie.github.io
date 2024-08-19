@@ -20,13 +20,15 @@ redirect_from:
 I am currently a second-year master student at Tsinghua University, Beijing, China, advised by [Prof. Yu Jiang](https://sites.google.com/site/jiangyu198964/home). I am proud to be a member of the [Software System Security Assurance Group - WingTecher Lab](http://wingtecher.com/homeen). Previously, I received my bachelor's degree in Cybersecurity from Sichuan University, Chengdu, China.
 
 <!-- I am interested in the intersection of data, security and system, with a focus on program analysis, malware analysis and mitigation, data and privacy protection, fuzzing, and IoT security.  -->
-I am interested in the intersection of data, security, and systems. To understand and mitigate evolving computer security threats, I work to design and develop practical security tools to detect and defend against a wide range of vulnerabilities in software and systems. My research journey explores both established and emerging domains, aiming to contribute to the broader field of computer security through innovative solutions.
+I am interested in the intersection of data, security, and systems. To understand and mitigate evolving computer security threats, I work to design and develop practical security tools to detect and defend against a wide range of vulnerabilities in software and systems, e.g., attack investigation (S&P'23, ICSE'24), detection (ICCCN'21, IP&M 2022), and defense (EMSOFT'22). 
+
+<!-- My research journey explores both established and emerging domains, aiming to contribute to the broader field of computer security through innovative solutions. -->
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-Outside of research, I enjoy table tennis, running, livehouse bands performance, science fictions, and fantacy novels.
+<!-- Outside of research, I enjoy table tennis, running, livehouse bands performance, science fictions, and fantacy novels. -->
 
-I plan to enter a Ph.D. program after I graduate from Tsinghua in June 2025.
+I am applying for a Ph.D. position for 2025 fall. I would appreciate any information you can provide!
 
 
 # News
@@ -128,13 +130,13 @@ The 30th IEEE International Conference on Computer Communications and Networks (
 
 # Honors and Awards
 - *2024.03* Deng Feng Fund for International Conference Travel, Tsinghua University
-- *2023.10* Tsinghua-Jining Scholarship, Tsinghua University 
-- *2022.11* Tsinghua-Jining Scholarship, Tsinghua University 
+- *2023.10* Excellent Comprehensive Scholarship, Tsinghua University 
+- *2022.11* Excellent Comprehensive Scholarship, Tsinghua University 
 - *2022.06* Outstanding Undergraduate Award, Sichuan Province
 - *2022.06* 'Top 10 Undergraduate of 2022', Sichuan University (10 undergraduates among 32,000+) 
-- *2020.11* National Scholarship (Top 0.2% in China) 
-- *2019.12* Cybersecurity Merit Student Scholarship
-- *2019.11* National Scholarship (Top 0.2% in China)
+- *2020.11* National Scholarship, Ministry of Education of P.R. China (Top 0.2% in China) 
+- *2019.12* Cybersecurity Merit Student Scholarship, Sichuan University
+- *2019.11* National Scholarship, Ministry of Education of P.R. China (Top 0.2% in China)
 
 
 
