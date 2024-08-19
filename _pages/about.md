@@ -155,6 +155,7 @@ The 30th IEEE International Conference on Computer Communications and Networks (
 
 <!-- Webpage Last Updated: 6 May 2024 -->
 
+<span style="color:#808080;word-break: break-all;">Webpage Last Updated: August 18, 2024</span>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 Spring in THU</div><img src='images/spring.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -167,7 +168,7 @@ The 30th IEEE International Conference on Computer Communications and Networks (
 <div class='paper-box-text' markdown="1">
 
 
-<span style="color:#808080;word-break: break-all;">Webpage Last Updated: August 18, 2024</span>
+
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Academic Service</div><img src='images/certificate.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
