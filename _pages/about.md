@@ -26,7 +26,7 @@ I am interested in the intersection of data, security, and systems. To understan
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-<!-- Outside of research, I enjoy table tennis, running, livehouse bands performance, science fictions, and fantacy novels. -->
+Outside of research, I enjoy table tennis, running, livehouse bands performance, science fictions, and fantacy novels.
 
 <span style="color:#ff0000;word-break: break-all;">I am applying for a Ph.D. position for 2025 fall. I would appreciate any information you can provide!</span>
 
