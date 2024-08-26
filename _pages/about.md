@@ -141,8 +141,8 @@ The 30th IEEE International Conference on Computer Communications and Networks (
 
 
 # Education
-- *09/2022 - 06/2025(expected)*, M.Eng. in Software Engineering, Tsinghua University.
-- *09/2018 - 06/2022*, B.Eng. in Cybersecurity, Sichuan University. Ranked 1/172, GPA 3.94/4.0
+- *09/2022 - 06/2025(expected)*, M.S. in Software Engineering, Tsinghua University.
+- *09/2018 - 06/2022*, B.S. in Cybersecurity, Sichuan University. Ranked 1/172, GPA 3.94/4.0
 - *07/2019*, Summer Session in EECS, University of California, Berkeley.
 
 
