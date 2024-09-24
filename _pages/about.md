@@ -20,7 +20,7 @@ redirect_from:
 I am currently a master student at Tsinghua University, Beijing, China, advised by [Prof. Yu Jiang](https://sites.google.com/site/jiangyu198964/home). I am proud to be a member of the [Software System Security Assurance Group - WingTecher Lab](http://wingtecher.com/homeen). Previously, I received my bachelor's degree in Cybersecurity from Sichuan University, Chengdu, China.
 
 <!-- I am interested in the intersection of data, security and system, with a focus on program analysis, malware analysis and mitigation, data and privacy protection, fuzzing, and IoT security.  -->
-I am interested in the intersection of data, security, and systems. To understand and mitigate evolving computer security threats, I work to design and develop practical security tools to detect and defend against a wide range of vulnerabilities in software and systems, e.g., attack investigation (S&P'23, ICSE'24), detection (ICCCN'21, IP&M 2022), and defense (EMSOFT'22, NDSS'25-UnderReview). 
+I am interested in the intersection of data, security, and systems. To understand and mitigate evolving computer security threats, I work to design and develop practical security tools to detect and defend against a wide range of vulnerabilities in software and systems, e.g., attack investigation (S&P Oakland'23, ICSE'24), detection (ICCCN'21, IP&M 2022, FSE'25-InSubmission), and defense (EMSOFT'22, ISSTA'25-InSubmission). 
 
 <!-- My research journey explores both established and emerging domains, aiming to contribute to the broader field of computer security through innovative solutions. -->
 
@@ -35,7 +35,7 @@ Outside of research, I enjoy table tennis, running, livehouse bands performance,
 - *07/2024*: &nbsp;I am spending this summer at the University of Chicago as a visiting student researcher, hosted by [Prof. Grant Ho](https://people.cs.uchicago.edu/~grantho/). Excited!
 - *04/2024*: &nbsp;Gave a talk in ICSE'24 research track. Shout out to the new friends I met in Lisbon!
 - *10/2023*: &nbsp;MarauderMap is accepted to ICSE'24. Let's meet in Lisbon, Portugal next April. 🎉
-- *03/2023*: &nbsp;Animagus is accepted to S&P'23. 🎉
+- *03/2023*: &nbsp;Animagus is accepted to S&P Oakland'23. 🎉
 - *09/2022*: &nbsp;New journey begins at Tsinghua University. Go Purple!
 - *08/2022*: &nbsp;Midas is accepted to EMSOFT'22. 🎉
 - *07/2022*: &nbsp;CJI-Framework is accepted to IP&M. 🎉
@@ -147,14 +147,15 @@ The 30th IEEE International Conference on Computer Communications and Networks (
 
 
 
-# Academic Service
+# Service
+- Teaching Assistant: Model-driven Software Development@Tsinghua, Fall 2024, Course No.44100662
 - Journal Reviewer: Information Processing & Management
 - Artifact Evaluation Committee (AEC): CCS'23, ISSTA'24
 - External Reviewer: EMSOFT'22, ICSE'24, FSE'24, ISSTA'24, EMSOFT'24, ICSE'25
 
 
 
-<span style="color:#808080;word-break: break-all;">Webpage Last Updated: August 18, 2024</span>
+<span style="color:#808080;word-break: break-all;">Webpage Last Updated: Sep 22, 2024</span>
 
 
 
