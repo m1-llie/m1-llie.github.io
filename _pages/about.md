@@ -129,19 +129,21 @@ The 30th IEEE International Conference on Computer Communications and Networks (
 
 
 # Honors and Awards
+- *10/2024* Excellent Comprehensive Scholarship, Tsinghua University
 - *03/2024* Deng Feng Fund for International Conference Travel, Tsinghua University
 - *10/2023* Excellent Comprehensive Scholarship, Tsinghua University 
 - *11/2022* Excellent Comprehensive Scholarship, Tsinghua University 
 - *06/2022* Outstanding Undergraduate Award, Sichuan Province
 - *06/2022* 'Top 10 Undergraduate of 2022', Sichuan University (10 undergraduates among 32,000+) 
 - *11/2020* National Scholarship, Ministry of Education of P.R. China (Top 0.2% in China) 
+- *08/2020* 1st Prize in the National College Student Information Security Contest, China Internet Development Foundation
 - *12/2019* Cybersecurity Merit Student Scholarship, Sichuan University
 - *11/2019* National Scholarship, Ministry of Education of P.R. China (Top 0.2% in China)
 
 
 
 # Education
-- *09/2022 - 06/2025(expected)*, M.S. in Software Engineering, Tsinghua University.
+- *09/2022 - 06/2025(expected)*, M.S. in Software Engineering, Tsinghua University. GPA 3.90/4.0
 - *09/2018 - 06/2022*, B.S. in Cybersecurity, Sichuan University. Ranked 1/172, GPA 3.94/4.0
 - *07/2019*, Summer Session in EECS, University of California, Berkeley.
 
@@ -155,7 +157,7 @@ The 30th IEEE International Conference on Computer Communications and Networks (
 
 
 
-<span style="color:#808080;word-break: break-all;">Webpage Last Updated: Sep 22, 2024</span>
+<span style="color:#808080;word-break: break-all;">Webpage Last Updated: Sep 23, 2024</span>
 
 
 
