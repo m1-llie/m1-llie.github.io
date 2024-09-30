@@ -36,7 +36,7 @@ Outside of research, I enjoy table tennis, running, livehouse bands performance,
 - *04/2024*: &nbsp;Gave a talk in ICSE'24 research track. Shout out to the new friends I met in Lisbon!
 - *10/2023*: &nbsp;MarauderMap is accepted to ICSE'24. Let's meet in Lisbon, Portugal next April. 🎉
 - *03/2023*: &nbsp;Animagus is accepted to S&P Oakland'23. 🎉
-- *09/2022*: &nbsp;New journey begins at Tsinghua University. Go Purple!
+- *09/2022*: &nbsp;New journey begins at Tsinghua University!
 - *08/2022*: &nbsp;Midas is accepted to EMSOFT'22. 🎉
 - *07/2022*: &nbsp;CJI-Framework is accepted to IP&M. 🎉
 - *06/2022*: &nbsp;Graduated from Sichuan University. Bye, Chengdu. Bye, pandas.🐼🐼🐼 [Ceremony](https://mp.weixin.qq.com/s/8xPnhNNIVBTAbcWJ0B3YuQ) / [Vlog](https://mp.weixin.qq.com/s/5hp2exmWC_AVrnt6am6Xjw)
