@@ -20,7 +20,7 @@ redirect_from:
 I am currently a master student at Tsinghua University, Beijing, China, advised by [Prof. Yu Jiang](https://sites.google.com/site/jiangyu198964/home). I am proud to be a member of the [Software System Security Assurance Group - WingTecher Lab](http://wingtecher.com/homeen). Previously, I received my bachelor's degree in Cybersecurity from Sichuan University, Chengdu, China.
 
 <!-- I am interested in the intersection of data, security and system, with a focus on program analysis, malware analysis and mitigation, data and privacy protection, fuzzing, and IoT security.  -->
-I am interested in the intersection of data, security, and systems. To understand and mitigate evolving computer security threats, I work to design and develop practical security tools to detect and defend against a wide range of vulnerabilities in software and systems, e.g., attack investigation (S&P Oakland'23, ICSE'24), detection (ICCCN'21, IP&M 2022, FSE'25-InSubmission), and defense (EMSOFT'22, ISSTA'25-InSubmission). 
+I am interested in the intersection of security, software systems, and data. To understand and mitigate evolving computer security threats, I work to design and develop practical tools to detect and defend against a wide range of vulnerabilities in software and systems, e.g., attack investigation (S&P Oakland'23, ICSE'24), detection (ICCCN'21, IP&M 2022, FSE'25-InSubmission), and defense (EMSOFT'22, ISSTA'25-InSubmission). 
 
 <!-- My research journey explores both established and emerging domains, aiming to contribute to the broader field of computer security through innovative solutions. -->
 
@@ -28,7 +28,7 @@ I am interested in the intersection of data, security, and systems. To understan
 
 Outside of research, I enjoy table tennis, running, livehouse bands performance, science fictions, and fantacy novels.
 
-<span style="color:#ff0000;word-break: break-all;">I am applying to Ph.D. programs for 2025 fall. I would appreciate any information you can [provide](https://forms.gle/AePyPfaubzpnghCS6)!</span>
+<span style="color:#ff0000;word-break: break-all;">I am applying to Ph.D. programs for 2025 Fall. I would appreciate any information you can [provide](https://forms.gle/AePyPfaubzpnghCS6)!</span>
 
 
 # News
