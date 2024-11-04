@@ -26,9 +26,11 @@ I am interested in the intersection of security, software systems, and data. To 
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-Outside of research, I enjoy table tennis, running, livehouse bands performance, science fictions, and fantacy novels.
+Outside of research, I enjoy table tennis, running, livehouse band performance, science fictions, and fantasy novels.
 
-<span style="color:#ff0000;word-break: break-all;">I am applying to Ph.D. programs for 2025 Fall. I would appreciate any information you can [provide](https://forms.gle/AePyPfaubzpnghCS6)!</span>
+<span style="color:#ff0000;word-break: break-all;">I am applying to Ph.D. programs for 2025 Fall.</span>
+
+<!-- I would appreciate any information you can [provide](https://forms.gle/AePyPfaubzpnghCS6)! -->
 
 
 # News
@@ -129,7 +131,7 @@ The 30th IEEE International Conference on Computer Communications and Networks (
 
 
 # Honors and Awards
-- *10/2024* Excellent Comprehensive Scholarship, Tsinghua University
+<!-- - *10/2024* Excellent Comprehensive Scholarship, Tsinghua University -->
 - *03/2024* Deng Feng Fund for International Conference Travel, Tsinghua University
 - *10/2023* Excellent Comprehensive Scholarship, Tsinghua University 
 - *11/2022* Excellent Comprehensive Scholarship, Tsinghua University 
@@ -143,8 +145,8 @@ The 30th IEEE International Conference on Computer Communications and Networks (
 
 
 # Education
-- *09/2022 - 06/2025(expected)*, M.S. in Software Engineering, Tsinghua University. GPA 3.90/4.0
-- *09/2018 - 06/2022*, B.S. in Cybersecurity, Sichuan University. Ranked 1/172, GPA 3.94/4.0
+- *09/2022 - 06/2025(expected)*, M.Eng. in Software Engineering, Tsinghua University. GPA 3.90/4.0
+- *09/2018 - 06/2022*, B.Eng. in Cybersecurity, Sichuan University. Ranked 1/172, GPA 3.96/4.0
 - *07/2019*, Summer Session in EECS, University of California, Berkeley.
 
 
@@ -157,7 +159,7 @@ The 30th IEEE International Conference on Computer Communications and Networks (
 
 
 
-<span style="color:#808080;word-break: break-all;">Webpage Last Updated: Sep 23, 2024</span>
+<span style="color:#808080;word-break: break-all;">Webpage Last Updated: Nov 3, 2024</span>
 
 
 
