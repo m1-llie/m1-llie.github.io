@@ -28,9 +28,7 @@ I am interested in the intersection of security, software systems, and data. To 
 
 Outside of research, I enjoy table tennis, running, livehouse band performance, science fictions, and fantasy novels.
 
-<span style="color:#ff0000;word-break: break-all;">I am applying to Ph.D. programs for 2025 Fall.</span>
-
-<!-- I would appreciate any information you can [provide](https://forms.gle/AePyPfaubzpnghCS6)! -->
+<span style="color:#ff0000;word-break: break-all;">I am applying to Ph.D. programs for 2025 Fall. I would appreciate any information you can [provide](https://forms.gle/AePyPfaubzpnghCS6)!</span>
 
 
 # News
