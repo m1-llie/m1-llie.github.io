@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a master student at Tsinghua University, Beijing, China, advised by [Prof. Yu Jiang](https://sites.google.com/site/jiangyu198964/home). I am proud to be a member of the [Software System Security Assurance Group - WingTecher Lab](http://wingtecher.com/homeen). Previously, I received my bachelor's degree in Cybersecurity from Sichuan University, Chengdu, China.
+I am currently a master student at Tsinghua University, Beijing, China, advised by [Prof. Yu Jiang](https://sites.google.com/site/jiangyu198964/home). I am proud to be a member of the [Software System Security Assurance Group - WingTecher Lab](http://wingtecher.com/homeen). Previously, I received my bachelor's degree from Sichuan University, Chengdu, China.
 
 <!-- I am interested in the intersection of data, security and system, with a focus on program analysis, malware analysis and mitigation, data and privacy protection, fuzzing, and IoT security.  -->
 I am interested in the intersection of security, software systems, and data. To understand and mitigate evolving computer security threats, I work to design and develop practical tools to detect and defend against a wide range of vulnerabilities in software and systems, e.g., attack investigation (S&P Oakland'23, **ICSE'24**), detection (ICCCN'21, **IP&M 2022**, FSE'25-InSubmission), and defense (EMSOFT'22, **ISSTA'25-InSubmission**). 
@@ -26,7 +26,7 @@ I am interested in the intersection of security, software systems, and data. To 
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-In my free time, I'm into table tennis, running, science fictions, fantasy novels, and livehouse band performance.
+In my free time, I'm into table tennis, running, science fictions, and livehouse band performance.
 
 <span style="color:#8b0000;word-break: break-all;">I am applying to Ph.D. programs for 2025 Fall, with a focus on Security / SE. I would appreciate any information you can [provide](https://forms.gle/AePyPfaubzpnghCS6)!</span>
 
