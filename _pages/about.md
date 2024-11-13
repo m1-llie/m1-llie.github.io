@@ -26,9 +26,9 @@ I am interested in the intersection of security, software systems, and data. To 
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-Outside of research, I enjoy table tennis, running, livehouse band performance, science fictions, and fantasy novels.
+In my free time, I'm into table tennis, running, science fictions, fantasy novels, and livehouse band performance.
 
-<span style="color:#78677a;word-break: break-all;">I am applying to Ph.D. programs for 2025 Fall. I would appreciate any information you can [provide](https://forms.gle/AePyPfaubzpnghCS6)!</span>
+<span style="color:#e7adac;word-break: break-all;">I am applying to Ph.D. programs for 2025 Fall, with a focus on Sec / PLSE. I would appreciate any information you can [provide](https://forms.gle/AePyPfaubzpnghCS6)!</span>
 
 
 # News
