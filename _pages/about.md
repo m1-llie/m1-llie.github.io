@@ -28,7 +28,7 @@ I am interested in the intersection of security, software systems, and data. To 
 
 In my free time, I'm into table tennis, running, science fictions, fantasy novels, and livehouse band performance.
 
-<span style="color:#e7adac;word-break: break-all;">I am applying to Ph.D. programs for 2025 Fall, with a focus on Security / PLSE. I would appreciate any information you can [provide](https://forms.gle/AePyPfaubzpnghCS6)!</span>
+<span style="color:#8b0000;word-break: break-all;">I am applying to Ph.D. programs for 2025 Fall, with a focus on Security / PLSE. I would appreciate any information you can [provide](https://forms.gle/AePyPfaubzpnghCS6)!</span>
 
 
 # News
