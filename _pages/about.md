@@ -129,22 +129,20 @@ The 30th IEEE International Conference on Computer Communications and Networks (
 
 
 # Honors and Awards
-<!-- - *10/2024* Excellent Comprehensive Scholarship, Tsinghua University -->
-- *03/2024* Deng Feng Fund for International Conference Travel, Tsinghua University
-- *10/2023* Excellent Comprehensive Scholarship, Tsinghua University 
-- *11/2022* Excellent Comprehensive Scholarship, Tsinghua University 
-- *06/2022* Outstanding Undergraduate Award, Sichuan Province
-- *06/2022* 'Top 10 Undergraduate of 2022', Sichuan University (10 undergraduates among 32,000+) 
-- *11/2020* National Scholarship, Ministry of Education of P.R. China (Top 0.2% in China) 
-- *08/2020* 1st Prize in the National College Student Information Security Contest, China Internet Development Foundation
-- *12/2019* Cybersecurity Merit Student Scholarship, Sichuan University
-- *11/2019* National Scholarship, Ministry of Education of P.R. China (Top 0.2% in China)
+- Deng Feng Fund for International Conference Travel, Tsinghua University (2024)
+- Excellent Comprehensive Scholarship, Tsinghua University (2022, 2023, 2024)
+- Outstanding Social Service Scholarship, Tsinghua University (2023)
+- Outstanding Undergraduate Award, Sichuan Province (2022)
+- ‘Top 10 Undergraduate of 2022’, Sichuan University (Top 0.03% in SCU) (2022)
+- National Scholarship, Ministry of Education of China (Top 0.2% in China) (2019, 2020)
+- 1st Prize in the National College Student Information Security Contest, China Internet Development Foundation (2020)
+- Cybersecurity Merit Student Scholarship, Sichuan University (2019)
 
 
 
 # Education
 - *09/2022 - 06/2025(expected)*, M.Eng. in Software Engineering, Tsinghua University. GPA 3.90/4.0
-- *09/2018 - 06/2022*, B.Eng. in Cybersecurity, Sichuan University. Ranked 1/172, GPA 3.96/4.0
+- *09/2018 - 06/2022*, B.Eng. in Cybersecurity, Sichuan University. GPA 3.96/4.0, Ranked 1/172
 - *07/2019*, Summer Session in EECS, University of California, Berkeley.
 
 
@@ -153,7 +151,7 @@ The 30th IEEE International Conference on Computer Communications and Networks (
 - Teaching Assistant: Model-driven Software Development@Tsinghua, Fall 2024, Course No.44100662
 - Journal Reviewer: Information Processing & Management
 - Artifact Evaluation Committee (AEC): CCS'23, ISSTA'24
-- External Reviewer: EMSOFT'22, ICSE'24, FSE'24, ISSTA'24, EMSOFT'24, ICSE'25
+- External Reviewer: EMSOFT'22, ICSE'24, FSE'24, ISSTA'24, EMSOFT'24, ICSE'25, FSE'25
 
 
 
