@@ -26,7 +26,7 @@ I am interested in the intersection of security, software systems, and data. To 
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-In my free time, I'm into table tennis, running, science fictions, and livehouse band performance.
+In my free time, I am into table tennis, running, science fictions, and livehouse band performance.
 
 <span style="color:#8b0000;word-break: break-all;">I am applying to Ph.D. programs for 2025 Fall, with a focus on Security / SE. I would appreciate any information you can [provide](https://forms.gle/AePyPfaubzpnghCS6)!</span>
 
@@ -133,7 +133,7 @@ The 30th IEEE International Conference on Computer Communications and Networks (
 - Excellent Comprehensive Scholarship, Tsinghua University (2022, 2023, 2024)
 - Outstanding Social Service Scholarship, Tsinghua University (2023)
 - Outstanding Undergraduate Award, Sichuan Province (2022)
-- ‘Top 10 Undergraduate of 2022’, Sichuan University (Top 0.03% in SCU) (2022)
+- 'Top 10 Undergraduate of 2022', Sichuan University (Top 0.03% in SCU) (2022)
 - National Scholarship, Ministry of Education of China (Top 0.2% in China) (2019, 2020)
 - 1st Prize in the National College Student Information Security Contest, China Internet Development Foundation (2020)
 - Cybersecurity Merit Student Scholarship, Sichuan University (2019)
@@ -148,14 +148,14 @@ The 30th IEEE International Conference on Computer Communications and Networks (
 
 
 # Service
-- Teaching Assistant: Model-driven Software Development@Tsinghua, Fall 2024, Course No.44100662
+- Teaching Assistant: Model-driven Software Development@Tsinghua, Fall 2024, Course No.44100662 (for ~80 undergraduates)
 - Journal Reviewer: Information Processing & Management
 - Artifact Evaluation Committee (AEC): CCS'23, ISSTA'24
-- External Reviewer: EMSOFT'22, ICSE'24, FSE'24, ISSTA'24, EMSOFT'24, ICSE'25, FSE'25
+- External Reviewer: EMSOFT(2022,2024), ICSE(2024,2025), FSE(2024,2025), ISSTA(2024,2025)
 
 
 
-<span style="color:#808080;word-break: break-all;">Webpage Last Updated: Nov 3, 2024</span>
+<span style="color:#808080;word-break: break-all;">Webpage Last Updated: Dec 3, 2024</span>
 
 
 
