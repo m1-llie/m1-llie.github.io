@@ -20,7 +20,7 @@ redirect_from:
 I am a master student at Tsinghua University, Beijing, China, advised by [Prof. Yu Jiang](https://sites.google.com/site/jiangyu198964/home). I am proud to be a member of [Software System Security Assurance Group - WingTecher Lab](http://wingtecher.com/homeen). Previously, I received my bachelor's degree from Sichuan University, Chengdu, China (with the highest honor).
 
 <!-- I am interested in the intersection of data, security and system, with a focus on program analysis, malware analysis and mitigation, data and privacy protection, fuzzing, and IoT security.  -->
-I am interested in the intersection of security, software systems, and data. To understand and mitigate evolving computer security threats, I work to design and develop practical tools to detect and defend against a wide range of vulnerabilities in software and systems, e.g., attack investigation (S&P Oakland'23, **ICSE'24**), detection (ICCCN'21, **IP&M 2022**, FSE'25-InSubmission), and defense (EMSOFT'22, **ISSTA'25-InSubmission**). I am also working on an LLM4Sec project with [Prof. Grant Ho](https://people.cs.uchicago.edu/~grantho/) at UChicago from summer 2024.
+I am interested in the intersection of security, software systems, and data. To understand and mitigate evolving computer security threats, I work to design and develop practical tools to detect and defend against a wide range of vulnerabilities in software and systems, e.g., attack investigation (S&P Oakland'23, **ICSE'24**), detection (**IP&M 2022**, FSE'25-InSubmission), and defense (EMSOFT'22, **ISSTA'25**). I am also working on an LLM4Sec project with [Prof. Grant Ho](https://people.cs.uchicago.edu/~grantho/) at UChicago from summer 2024.
 
 <!-- My research journey explores both established and emerging domains, aiming to contribute to the broader field of computer security through innovative solutions. -->
 
@@ -32,6 +32,7 @@ In my free time, I am into table tennis, running, science fictions, and livehous
 
 
 # News
+- *12/2024*: &nbsp;Remembrall is accepted to ISSTA'25. Let's meet in Trondheim, Norway next June. 🎉
 - *07/2024*: &nbsp;I am spending this summer at the University of Chicago as a visiting student researcher, hosted by [Prof. Grant Ho](https://people.cs.uchicago.edu/~grantho/). Excited!
 - *04/2024*: &nbsp;Gave a talk in ICSE'24 research track. Shout out to the new friends I met in Lisbon!
 - *10/2023*: &nbsp;MarauderMap is accepted to ICSE'24. Let's meet in Lisbon, Portugal next April. 🎉
@@ -46,6 +47,22 @@ In my free time, I am into table tennis, running, science fictions, and livehous
 
 
 # Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISSTA'25</div><img src='images/issta25.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Preventing Disruption of System Backup Against Ransomware Attacks**
+
+**Yiwei Hou**, Lihua Guo, Chijin Zhou, Quan Zhang, Wenhuan Liu, Chengnian Sun, Yu Jiang
+
+The 34th ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA'25)
+
+<!-- [PDF](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/MarauderMap_ICSE24.pdf) / [Dataset](https://github.com/THU-WingTecher/MarauderMap) / [Code](https://github.com/m1-llie/MarauderMap-code) / [Slides](https://m1llie.tech/files/ICSE24-MarauderMap.pdf) / [DOI](https://doi.org/10.1145/3597503.3639090)
+
+Acceptance Rate: 234/1051=22.3% -->
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSE'24</div><img src='images/icse24.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -155,7 +172,7 @@ The 30th IEEE International Conference on Computer Communications and Networks (
 
 
 
-<span style="color:#808080;word-break: break-all;">Webpage Last Updated: Dec 3, 2024</span>
+<span style="color:#808080;word-break: break-all;">Webpage Last Updated: Dec 20, 2024</span>
 
 
 
