@@ -60,6 +60,7 @@ The 34th ACM SIGSOFT International Symposium on Software Testing and Analysis (I
 <!-- [PDF](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/MarauderMap_ICSE24.pdf) / [Dataset](https://github.com/THU-WingTecher/MarauderMap) / [Code](https://github.com/m1-llie/MarauderMap-code) / [Slides](https://m1llie.tech/files/ICSE24-MarauderMap.pdf) / [DOI](https://doi.org/10.1145/3597503.3639090)
 
 Acceptance Rate: 234/1051=22.3% -->
+Direct Acceptance: 23/553=4.16%
 </div>
 </div>
 
