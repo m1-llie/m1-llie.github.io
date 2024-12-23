@@ -28,8 +28,6 @@ I am interested in the intersection of security, software systems, and data. To 
 
 In my free time, I am into table tennis, running, science fictions, and livehouse band performance.
 
-<span style="color:#8b0000;word-break: break-all;">I am applying to Ph.D. programs for 2025 Fall, with a focus on Security / SE. I would appreciate any information you can [provide](https://forms.gle/AePyPfaubzpnghCS6)!</span>
-
 
 # News
 - *12/2024*: &nbsp;Remembrall is accepted to ISSTA'25. Let's meet in Trondheim, Norway next June. 🎉
@@ -173,7 +171,7 @@ The 30th IEEE International Conference on Computer Communications and Networks (
 
 
 
-<span style="color:#808080;word-break: break-all;">Webpage Last Updated: Dec 20, 2024</span>
+<span style="color:#808080;word-break: break-all;">Webpage Last Updated: Dec 22, 2024</span>
 
 
 
