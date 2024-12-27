@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a master student at Tsinghua University, Beijing, China, advised by [Prof. Yu Jiang](https://sites.google.com/site/jiangyu198964/home). I am proud to be a member of [Software System Security Assurance Group - WingTecher Lab](http://wingtecher.com/homeen). Previously, I received my bachelor's degree from Sichuan University, Chengdu, China (with the highest honor).
+I am a master student at Tsinghua University, Beijing, China, advised by [Prof. Yu Jiang](https://sites.google.com/site/jiangyu198964/home). I am proud to be a member of [Software System Security Assurance Group - WingTecher Lab](http://wingtecher.com/homeen). I received my bachelor's degree from Sichuan University, Chengdu, China (with the highest honor).
 
 <!-- I am interested in the intersection of data, security and system, with a focus on program analysis, malware analysis and mitigation, data and privacy protection, fuzzing, and IoT security.  -->
 I am interested in the intersection of security, software systems, and data. To understand and mitigate evolving computer security threats, I work to design and develop practical tools to detect and defend against a wide range of vulnerabilities in software and systems, e.g., attack investigation (S&P Oakland'23, **ICSE'24**), detection (**IP&M 2022**, FSE'25-InSubmission), and defense (EMSOFT'22, **ISSTA'25**). I am also working on an LLM4Sec project with [Prof. Grant Ho](https://people.cs.uchicago.edu/~grantho/) at UChicago from summer 2024.
@@ -30,14 +30,14 @@ In my free time, I am into table tennis, running, science fictions, and livehous
 
 
 # News
-- *12/2024*: &nbsp;Remembrall is accepted to ISSTA'25. Let's meet in Trondheim, Norway next June. 🎉
+- *12/2024*: &nbsp;*Remembrall* is accepted to ISSTA'25. Let's meet in Trondheim, Norway next June. 🎉
 - *07/2024*: &nbsp;I am spending this summer at the University of Chicago as a visiting student researcher, hosted by [Prof. Grant Ho](https://people.cs.uchicago.edu/~grantho/). Excited!
 - *04/2024*: &nbsp;Gave a talk in ICSE'24 research track. Shout out to the new friends I met in Lisbon!
-- *10/2023*: &nbsp;MarauderMap is accepted to ICSE'24. Let's meet in Lisbon, Portugal next April. 🎉
-- *03/2023*: &nbsp;Animagus is accepted to S&P Oakland'23. 🎉
+- *10/2023*: &nbsp;*MarauderMap* is accepted to ICSE'24. Let's meet in Lisbon, Portugal next April. 🎉
+- *03/2023*: &nbsp;*Animagus* is accepted to S&P Oakland'23. 🎉
 - *09/2022*: &nbsp;New journey begins at Tsinghua University!
-- *08/2022*: &nbsp;Midas is accepted to EMSOFT'22. 🎉
-- *07/2022*: &nbsp;CJI-Framework is accepted to IP&M. 🎉
+- *08/2022*: &nbsp;*Midas* is accepted to EMSOFT'22. 🎉
+- *07/2022*: &nbsp;*CJI-Framework* is accepted to IP&M. 🎉
 - *06/2022*: &nbsp;Graduated from Sichuan University. Bye, Chengdu. Bye, pandas.🐼🐼🐼 [Ceremony](https://mp.weixin.qq.com/s/8xPnhNNIVBTAbcWJ0B3YuQ) / [Vlog](https://mp.weixin.qq.com/s/5hp2exmWC_AVrnt6am6Xjw)
 - *06/2022*: &nbsp;Selected as 'Top 10 Undergraduate of 2022'. Thank you for everyone who supports me! [News](https://mp.weixin.qq.com/s/GsRuXo34gxnd-dSp1M1lqg)
 - *05/2022*: &nbsp;Gave a talk in the School of Cyber Science and Engineering, SCU. [News 网安菁英](https://mp.weixin.qq.com/s/XEt_xmzoEWVw0ZTpsEhDfA)
@@ -58,7 +58,7 @@ The 34th ACM SIGSOFT International Symposium on Software Testing and Analysis (I
 <!-- [PDF](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/MarauderMap_ICSE24.pdf) / [Dataset](https://github.com/THU-WingTecher/MarauderMap) / [Code](https://github.com/m1-llie/MarauderMap-code) / [Slides](https://m1llie.tech/files/ICSE24-MarauderMap.pdf) / [DOI](https://doi.org/10.1145/3597503.3639090)
 
 Acceptance Rate: 234/1051=22.3% -->
-Direct Acceptance: 23/553=4.16%
+First-round Direct Acceptance: 23/553=4.16%
 </div>
 </div>
 
@@ -145,8 +145,8 @@ The 30th IEEE International Conference on Computer Communications and Networks (
 
 
 # Honors and Awards
-- Deng Feng Fund for International Conference Travel, Tsinghua University (2024)
 - Excellent Comprehensive Scholarship, Tsinghua University (2022, 2023, 2024)
+- Deng Feng Fund for International Conference Travel, Tsinghua University (2024)
 - Outstanding Social Service Scholarship, Tsinghua University (2023)
 - Outstanding Undergraduate Award, Sichuan Province (2022)
 - 'Top 10 Undergraduate of 2022', Sichuan University (Top 0.03% in SCU) (2022)
