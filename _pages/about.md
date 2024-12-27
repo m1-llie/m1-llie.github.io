@@ -163,7 +163,7 @@ The 30th IEEE International Conference on Computer Communications and Networks (
 
 
 
-# Service
+# Academic Service
 - Teaching Assistant: Model-driven Software Development@Tsinghua, Fall 2024, Course No.44100662 (for ~80 undergraduates)
 - Journal Reviewer: Information Processing & Management
 - Artifact Evaluation Committee (AEC): CCS'23, ISSTA'24
