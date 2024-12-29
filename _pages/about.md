@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a master student at Tsinghua University, Beijing, China, advised by [Prof. Yu Jiang](https://sites.google.com/site/jiangyu198964/home). I am proud to be a member of [Software System Security Assurance Group - WingTecher Lab](http://wingtecher.com/homeen). I received my bachelor's degree from Sichuan University, Chengdu, China (with the highest honor).
+I am a master student at Tsinghua University, advised by [Prof. Yu Jiang](https://sites.google.com/site/jiangyu198964/home), working with folks at [Software System Security Assurance Group - WingTecher Lab](http://wingtecher.com/homeen). I received my bachelor's degree from Sichuan University, Chengdu, China (with the highest honor).
 
 <!-- I am interested in the intersection of data, security and system, with a focus on program analysis, malware analysis and mitigation, data and privacy protection, fuzzing, and IoT security.  -->
 I am interested in the intersection of security, software systems, and data. To understand and mitigate evolving computer security threats, I work to design and develop practical tools to detect and defend against a wide range of vulnerabilities in software and systems, e.g., attack investigation (S&P Oakland'23, **ICSE'24**), detection (**IP&M 2022**, FSE'25-InSubmission), and defense (EMSOFT'22, **ISSTA'25**). I am also working on an LLM4Sec project with [Prof. Grant Ho](https://people.cs.uchicago.edu/~grantho/) at UChicago from summer 2024.
