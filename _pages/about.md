@@ -20,7 +20,7 @@ redirect_from:
 I am a master student at Tsinghua University, advised by [Prof. Yu Jiang](https://sites.google.com/site/jiangyu198964/home), working with folks at [WingTecher Lab - Software System Security Assurance Group](http://wingtecher.com/homeen). I received my bachelor's degree from Sichuan University, Chengdu, China (with the highest honor).
 
 <!-- I am interested in the intersection of data, security and system, with a focus on program analysis, malware analysis and mitigation, data and privacy protection, fuzzing, and IoT security.  -->
-I am interested in the intersection of security, software systems, and data. To understand and mitigate evolving computer security threats, I work to design and develop practical tools to detect and defend against a wide range of vulnerabilities in software and systems, e.g., attack investigation (S&P Oakland'23, **ICSE'24**), detection (**IP&M 2022**, FSE'25-InSubmission), and defense (EMSOFT'22, **ISSTA'25**). I am also working on an LLM4Sec project with [Prof. Grant Ho](https://people.cs.uchicago.edu/~grantho/) at UChicago from summer 2024.
+I am interested in the intersection of security, software systems, and data. To understand and mitigate evolving computer security threats, I work to design and develop practical tools to detect and defend against a wide range of vulnerabilities in software and systems, e.g., attack investigation (S&P Oakland'23, **ICSE'24**), detection (**IP&M 2022**, FSE'25), and defense (EMSOFT'22, **ISSTA'25**). I am also working on an LLM4Sec project with [Prof. Grant Ho](https://people.cs.uchicago.edu/~grantho/) at UChicago from summer 2024.
 
 <!-- My research journey explores both established and emerging domains, aiming to contribute to the broader field of computer security through innovative solutions. -->
 
@@ -30,6 +30,7 @@ In my free time, I am into table tennis, running, science fictions, and livehous
 
 
 # News
+- *01/2025*: &nbsp;*RansomRadar* is accepted to FSE'25. This year's conference will be co-located with ISSTA'25 in Norway. 🎉
 - *12/2024*: &nbsp;*Remembrall* is accepted to ISSTA'25. Let's meet in Trondheim, Norway next June. 🎉
 - *07/2024*: &nbsp;I am spending this summer at the University of Chicago as a visiting student researcher, hosted by [Prof. Grant Ho](https://people.cs.uchicago.edu/~grantho/). Excited!
 - *04/2024*: &nbsp;Gave a talk in ICSE'24 research track. Shout out to the new friends I met in Lisbon!
@@ -59,6 +60,23 @@ The 34th ACM SIGSOFT International Symposium on Software Testing and Analysis (I
 
 Acceptance Rate: 234/1051=22.3% -->
 First-round Direct Acceptance: 23/553=4.16%
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">FSE'25</div><img src='images/fse25.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Ransomware Detection Through Temporal Correlation Between Encryption and I/O Behavior**
+
+Lihua Guo, **Yiwei Hou**, Chijin Zhou, Quan Zhang, Yu Jiang
+
+The 33rd ACM International Conference on the Foundations of Software Engineering (FSE'25)
+
+<!-- [PDF](http://wingtecher.com/themes/WingTecherResearch/assets/papers/paper_from_24/MarauderMap_ICSE24.pdf) / [Dataset](https://github.com/THU-WingTecher/MarauderMap) / [Code](https://github.com/m1-llie/MarauderMap-code) / [Slides](https://m1llie.tech/files/ICSE24-MarauderMap.pdf) / [DOI](https://doi.org/10.1145/3597503.3639090)
+
+Acceptance Rate: 234/1051=22.3% -->
+First-round Direct Acceptance: 70/612=11.43%
 </div>
 </div>
 
