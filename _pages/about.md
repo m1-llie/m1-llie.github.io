@@ -20,7 +20,7 @@ redirect_from:
 I am a master student at Tsinghua University, advised by [Prof. Yu Jiang](https://sites.google.com/site/jiangyu198964/home), working with folks at [WingTecher Lab - Software System Security Assurance Group](http://wingtecher.com/homeen). I received my bachelor's degree from Sichuan University, Chengdu, China (with the highest honor).
 
 <!-- I am interested in the intersection of data, security and system, with a focus on program analysis, malware analysis and mitigation, data and privacy protection, fuzzing, and IoT security.  -->
-I am interested in the intersection of security, software systems, and data. To understand and mitigate evolving computer security threats, I work to design and develop practical tools to detect and defend against a wide range of vulnerabilities in software and systems, e.g., attack investigation (S&P Oakland'23, **ICSE'24**), detection (**IP&M 2022**, FSE'25), and defense (EMSOFT'22, **ISSTA'25**). I am also working on an LLM for Security project with [Prof. Grant Ho](https://people.cs.uchicago.edu/~grantho/) at UChicago from summer 2024.
+I am interested in the intersection of security, software systems, and data. To understand and mitigate evolving computer security threats, I work to design and develop practical tools to detect and defend against a wide range of vulnerabilities in software and systems, e.g., attack investigation (IEEE S&P "Oakland" 23, **ICSE'24**), detection (**IP&M 2022**, FSE'25), and defense (EMSOFT'22, **ISSTA'25**). I am also working on an LLM for Security project with [Prof. Grant Ho](https://people.cs.uchicago.edu/~grantho/) at UChicago from summer 2024.
 
 <!-- My research journey explores both established and emerging domains, aiming to contribute to the broader field of computer security through innovative solutions. -->
 
@@ -40,7 +40,7 @@ In my free time, I am into table tennis, running, science fictions, and livehous
 
 **[Oct 2023]** *MarauderMap* is accepted to ICSE'24. Let's meet in Lisbon, Portugal next April. 🎉
 
-**[March 2023]** *Animagus* is accepted to S&P Oakland'23. 🎉
+**[March 2023]** *Animagus* is accepted to IEEE S&P "Oakland" 23. 🎉
 
 **[Sep 2022]** New journey begins at Tsinghua University!
 
@@ -115,7 +115,7 @@ Acceptance Rate: 234/1051=22.3%
 
 Chijin Zhou, Lihua Guo, **Yiwei Hou**, Zhenya Ma, Quan Zhang, Mingzhe Wang, Zhe Liu, Yu Jiang
 
-The 44th IEEE Symposium on Security and Privacy (IEEE S&P / Oakland'23)
+The 44th IEEE Symposium on Security and Privacy (IEEE S&P "Oakland" 23)
 
 [PDF](http://wingtecher.com/themes/WingTecherResearch/assets/papers/animagus-SP23.pdf) / [Code](https://github.com/ChijinZ/Animagus) / [Talk](https://www.youtube.com/watch?v=cDC0Vwieez0) / [DOI](https://doi.ieeecomputersociety.org/10.1109/SP46215.2023.00170)
 
@@ -174,21 +174,30 @@ The 30th IEEE International Conference on Computer Communications and Networks (
 
 
 # Honors and Awards
-- **Excellent Comprehensive Scholarship**, Tsinghua University (2022, 2023, 2024)
-- **Deng Feng Fund for International Conference Travel**, Tsinghua University (2024)
-- **Outstanding Social Service Scholarship**, Tsinghua University (2023)
-- **Outstanding Undergraduate Award**, Sichuan Province (2022)
-- **'Top 10 Undergraduate of 2022'**, Sichuan University (Top 0.03% in SCU) (2022)
-- **National Scholarship**, Ministry of Education of China (Top 0.2% in China) (2019, 2020)
-- **1st Prize in the National College Student Information Security Contest**, China Internet Development Foundation (2020)
-- **Cybersecurity Merit Student Scholarship**, Sichuan University (2019)
+**Excellent Comprehensive Scholarship**, Tsinghua University (2022, 2023, 2024)
+
+**Deng Feng Fund for International Conference Travel**, Tsinghua University (2024)
+
+**Outstanding Social Service Scholarship**, Tsinghua University (2023)
+
+**Outstanding Undergraduate Award**, Sichuan Province (2022)
+
+**'Top 10 Undergraduate of 2022'**, Sichuan University (Top 0.03% in SCU) (2022)
+
+**National Scholarship**, Ministry of Education of China (Top 0.2% in China) (2019, 2020)
+
+**1st Prize in the National College Student Information Security Contest**, China Internet Development Foundation (2020)
+
+**Cybersecurity Merit Student Scholarship**, Sichuan University (2019)
 
 
 
 # Education
-- Sep 2022 - June 2025(expected), M.Eng. in Software Engineering, **Tsinghua University**. GPA 3.90/4.0
-- Sep 2018 - June 2022, B.Eng. in Cybersecurity, **Sichuan University**. GPA 3.96/4.0, Ranked 1/172
-- July 2019, Summer Session in EECS, **University of California, Berkeley**.
+Sep 2022 - June 2025(expected), M.Eng. in Software Engineering, **Tsinghua University**. GPA 3.90/4.0
+
+Sep 2018 - June 2022, B.Eng. in Cybersecurity, **Sichuan University**. GPA 3.96/4.0, Ranked 1/172
+
+July 2019, Summer Session in EECS, **University of California, Berkeley**.
 
 
 
@@ -197,7 +206,7 @@ The 30th IEEE International Conference on Computer Communications and Networks (
 
 **[Journal Reviewer]** Information Processing & Management
 
-**[Artifact Evaluation Committee (AEC)]** CCS'23, ISSTA'24
+**[Artifact Evaluation Committee]** CCS'23, ISSTA'24
 
 **[External Reviewer]** EMSOFT(2022,2024), ICSE(2024,2025), FSE(2024,2025), ISSTA(2024,2025)
 
