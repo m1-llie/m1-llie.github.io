@@ -212,7 +212,7 @@ July 2019, Summer Session in EECS, **University of California, Berkeley**.
 
 
 
-<span style="color:#808080;word-break: break-all;">Webpage Last Updated: Feb 18, 2025</span>
+<span style="color:#808080;word-break: break-all;">Last updated on Feb 18, 2025. Thanks to [Yi Ren](https://rayeren.github.io/) for the awesome website template [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io). </span>
 
 
 
