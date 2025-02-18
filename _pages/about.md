@@ -30,7 +30,7 @@ In my free time, I am into table tennis, running, science fictions, and livehous
 
 
 # News
-- *01/2025*: &nbsp;*RansomRadar* is accepted to FSE'25. This year's conference will be co-located with ISSTA'25 in Norway. 🎉
+- **[Jan 2025]** &nbsp; *RansomRadar* is accepted to FSE'25. This year's conference will be co-located with ISSTA'25 in Norway. 🎉
 - *12/2024*: &nbsp;*Remembrall* is accepted to ISSTA'25. Let's meet in Trondheim, Norway next June. 🎉
 - *07/2024*: &nbsp;I am spending this summer at the University of Chicago as a visiting student researcher, hosted by [Prof. Grant Ho](https://people.cs.uchicago.edu/~grantho/). Excited!
 - *04/2024*: &nbsp;Gave a talk in ICSE'24 research track. Shout out to the new friends I met in Lisbon!
