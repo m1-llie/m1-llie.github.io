@@ -32,17 +32,27 @@ In my free time, I am into table tennis, running, science fictions, and livehous
 # News
 **[Jan 2025]** *RansomRadar* is accepted to FSE'25. This year's conference will be co-located with ISSTA'25 in Norway. 🎉
 
-- *12/2024*: &nbsp;*Remembrall* is accepted to ISSTA'25. Let's meet in Trondheim, Norway next June. 🎉
-- *07/2024*: &nbsp;I am spending this summer at the University of Chicago as a visiting student researcher, hosted by [Prof. Grant Ho](https://people.cs.uchicago.edu/~grantho/). Excited!
-- *04/2024*: &nbsp;Gave a talk in ICSE'24 research track. Shout out to the new friends I met in Lisbon!
-- *10/2023*: &nbsp;*MarauderMap* is accepted to ICSE'24. Let's meet in Lisbon, Portugal next April. 🎉
-- *03/2023*: &nbsp;*Animagus* is accepted to S&P Oakland'23. 🎉
-- *09/2022*: &nbsp;New journey begins at Tsinghua University!
-- *08/2022*: &nbsp;*Midas* is accepted to EMSOFT'22. 🎉
-- *07/2022*: &nbsp;*CJI-Framework* is accepted to IP&M. 🎉
-- *06/2022*: &nbsp;Graduated from Sichuan University. Bye, Chengdu. Bye, pandas.🐼🐼🐼 [Ceremony](https://mp.weixin.qq.com/s/8xPnhNNIVBTAbcWJ0B3YuQ) / [Vlog](https://mp.weixin.qq.com/s/5hp2exmWC_AVrnt6am6Xjw)
-- *06/2022*: &nbsp;Selected as 'Top 10 Undergraduate of 2022'. Thank you for everyone who supports me! [News](https://mp.weixin.qq.com/s/GsRuXo34gxnd-dSp1M1lqg)
-- *05/2022*: &nbsp;Gave a talk in the School of Cyber Science and Engineering, SCU. [News 网安菁英](https://mp.weixin.qq.com/s/XEt_xmzoEWVw0ZTpsEhDfA)
+**[Dec 2024]** *Remembrall* is accepted to ISSTA'25. Let's meet in Trondheim, Norway next June. 🎉
+
+**[July 2024]** I am spending this summer at the University of Chicago as a visiting student researcher, hosted by [Prof. Grant Ho](https://people.cs.uchicago.edu/~grantho/). Excited!
+
+**[April 2024]** Gave a talk in ICSE'24 research track. Shout out to the new friends I met in Lisbon!
+
+**[Oct 2023]** *MarauderMap* is accepted to ICSE'24. Let's meet in Lisbon, Portugal next April. 🎉
+
+**[March 2023]** *Animagus* is accepted to S&P Oakland'23. 🎉
+
+**[Sep 2022]** New journey begins at Tsinghua University!
+
+**[Aug 2022]** *Midas* is accepted to EMSOFT'22. 🎉
+
+**[July 2022]** *CJI-Framework* is accepted to IP&M. 🎉
+
+**[June 2022]** Graduated from Sichuan University. Bye, Chengdu. Bye, pandas.🐼🐼🐼 [Ceremony](https://mp.weixin.qq.com/s/8xPnhNNIVBTAbcWJ0B3YuQ) / [Vlog](https://mp.weixin.qq.com/s/5hp2exmWC_AVrnt6am6Xjw)
+
+**[June 2022]** Selected as 'Top 10 Undergraduate of 2022'. Thank you for everyone who supports me! [News](https://mp.weixin.qq.com/s/GsRuXo34gxnd-dSp1M1lqg)
+
+**[May 2022]** Gave a talk in the School of Cyber Science and Engineering, SCU. [News 网安菁英](https://mp.weixin.qq.com/s/XEt_xmzoEWVw0ZTpsEhDfA)
 
 
 
@@ -164,37 +174,40 @@ The 30th IEEE International Conference on Computer Communications and Networks (
 
 
 # Honors and Awards
-- Excellent Comprehensive Scholarship, Tsinghua University (2022, 2023, 2024)
-- Deng Feng Fund for International Conference Travel, Tsinghua University (2024)
-- Outstanding Social Service Scholarship, Tsinghua University (2023)
-- Outstanding Undergraduate Award, Sichuan Province (2022)
-- 'Top 10 Undergraduate of 2022', Sichuan University (Top 0.03% in SCU) (2022)
-- National Scholarship, Ministry of Education of China (Top 0.2% in China) (2019, 2020)
-- 1st Prize in the National College Student Information Security Contest, China Internet Development Foundation (2020)
-- Cybersecurity Merit Student Scholarship, Sichuan University (2019)
+- **Excellent Comprehensive Scholarship**, Tsinghua University (2022, 2023, 2024)
+- **Deng Feng Fund for International Conference Travel**, Tsinghua University (2024)
+- **Outstanding Social Service Scholarship**, Tsinghua University (2023)
+- **Outstanding Undergraduate Award**, Sichuan Province (2022)
+- **'Top 10 Undergraduate of 2022'**, Sichuan University (Top 0.03% in SCU) (2022)
+- **National Scholarship**, Ministry of Education of China (Top 0.2% in China) (2019, 2020)
+- **1st Prize in the National College Student Information Security Contest**, China Internet Development Foundation (2020)
+- **Cybersecurity Merit Student Scholarship**, Sichuan University (2019)
 
 
 
 # Education
-- *09/2022 - 06/2025(expected)*, M.Eng. in Software Engineering, Tsinghua University. GPA 3.90/4.0
-- *09/2018 - 06/2022*, B.Eng. in Cybersecurity, Sichuan University. GPA 3.96/4.0, Ranked 1/172
-- *07/2019*, Summer Session in EECS, University of California, Berkeley.
+- Sep 2022 - June 2025(expected), M.Eng. in Software Engineering, **Tsinghua University**. GPA 3.90/4.0
+- Sep 2018 - June 2022, B.Eng. in Cybersecurity, **Sichuan University**. GPA 3.96/4.0, Ranked 1/172
+- July 2019, Summer Session in EECS, **University of California, Berkeley**.
 
 
 
 # Academic Service
-- Teaching Assistant: Model-driven Software Development@Tsinghua, Fall 2024, Course No.44100662 (for ~80 undergraduates)
-- Journal Reviewer: Information Processing & Management
-- Artifact Evaluation Committee (AEC): CCS'23, ISSTA'24
-- External Reviewer: EMSOFT(2022,2024), ICSE(2024,2025), FSE(2024,2025), ISSTA(2024,2025)
+**[Teaching Assistant]** Model-driven Software Development, Tsinghua University, Fall 2024, Course No.44100662 (for ~80 undergraduates)
+
+**[Journal Reviewer]** Information Processing & Management
+
+**[Artifact Evaluation Committee (AEC)]** CCS'23, ISSTA'24
+
+**[External Reviewer]** EMSOFT(2022,2024), ICSE(2024,2025), FSE(2024,2025), ISSTA(2024,2025)
 
 
 
-<span style="color:#808080;word-break: break-all;">Webpage Last Updated: Jan 15, 2025</span>
+<span style="color:#808080;word-break: break-all;">Webpage Last Updated: Feb 18, 2025</span>
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 Spring in THU</div><img src='images/spring.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2024 Spring at Tsinghua</div><img src='images/spring.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICSE24 in Lisbon</div><img src='images/ICSE24-attendence.png' alt="sym" width="100%"></div></div>
