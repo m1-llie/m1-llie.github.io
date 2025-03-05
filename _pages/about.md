@@ -170,9 +170,11 @@ The 30th IEEE International Conference on Computer Communications and Networks (
 # Honors and Awards
 **Excellent Comprehensive Scholarship**, Tsinghua University (2022, 2023, 2024)
 
-**Outstanding Undergraduate Award**, Sichuan Province (2022)
+**Deng Feng Fund for Conference Travel**, Tsinghua University (2024)
 
-**'Top 10 Undergraduate of the Year'**, Sichuan University (Top 0.03% in SCU) (2022)
+**Outstanding Undergraduate Award**, Sichuan Province (Top 3% in the province) (2022)
+
+**'Top 10 Undergraduate of the Year'**, Sichuan University (Top 0.03% in the univ.) (2022)
 
 **National Scholarship**, Ministry of Education of China (Top 0.2% in China) (2019, 2020)
 
@@ -199,7 +201,7 @@ July 2019, Summer Session in EECS, **University of California, Berkeley**.
 
 
 
-<span style="color:#808080;word-break: break-all;">Last updated on Feb 18, 2025. Thanks to [Yi Ren](https://rayeren.github.io/) for the awesome website template [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io). </span>
+<span style="color:#808080;word-break: break-all;">Last updated on March 3, 2025. Thanks to [Yi Ren](https://rayeren.github.io/) for the awesome website template [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io). </span>
 
 
 
