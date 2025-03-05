@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a master student at Tsinghua University, advised by [Prof. Yu Jiang](https://sites.google.com/site/jiangyu198964/home), working with folks at [WingTecher Lab - Software System Security Assurance Group](http://wingtecher.com/homeen). I received my bachelor's degree from Sichuan University, Chengdu, China (with the highest honor).
-
-<!-- I am interested in the intersection of data, security and system, with a focus on program analysis, malware analysis and mitigation, data and privacy protection, fuzzing, and IoT security.  -->
+Hi! I am a master student at Tsinghua University, advised by [Prof. Yu Jiang](https://sites.google.com/site/jiangyu198964/home), working with folks at [WingTecher Lab - Software System Security Assurance Group](http://wingtecher.com/homeen). 
 I am interested in the intersection of security, software systems, and data. To understand and mitigate evolving computer security threats, I work to design and develop practical tools to detect and defend against a wide range of vulnerabilities in software and systems, e.g., attack investigation (IEEE S&P "Oakland" 23, **ICSE'24**), detection (**IP&M 2022**, FSE'25), and defense (EMSOFT'22, **ISSTA'25**). I am also working on an LLM for Security project with [Prof. Grant Ho](https://people.cs.uchicago.edu/~grantho/) at UChicago from summer 2024.
 
 <!-- My research journey explores both established and emerging domains, aiming to contribute to the broader field of computer security through innovative solutions. -->
@@ -43,10 +41,6 @@ In my free time, I am into table tennis, running, science fictions, and livehous
 **[March 2023]** *Animagus* is accepted to IEEE S&P "Oakland" 23. 🎉
 
 **[Sep 2022]** New journey begins at Tsinghua University!
-
-**[Aug 2022]** *Midas* is accepted to EMSOFT'22. 🎉
-
-**[July 2022]** *CJI-Framework* is accepted to IP&M. 🎉
 
 **[June 2022]** Graduated from Sichuan University. Bye, Chengdu. Bye, pandas.🐼🐼🐼 [Ceremony](https://mp.weixin.qq.com/s/8xPnhNNIVBTAbcWJ0B3YuQ) / [Vlog](https://mp.weixin.qq.com/s/5hp2exmWC_AVrnt6am6Xjw)
 
@@ -176,19 +170,12 @@ The 30th IEEE International Conference on Computer Communications and Networks (
 # Honors and Awards
 **Excellent Comprehensive Scholarship**, Tsinghua University (2022, 2023, 2024)
 
-**Deng Feng Fund for International Conference Travel**, Tsinghua University (2024)
-
-**Outstanding Social Service Scholarship**, Tsinghua University (2023)
-
 **Outstanding Undergraduate Award**, Sichuan Province (2022)
 
-**'Top 10 Undergraduate of 2022'**, Sichuan University (Top 0.03% in SCU) (2022)
+**'Top 10 Undergraduate of the Year'**, Sichuan University (Top 0.03% in SCU) (2022)
 
 **National Scholarship**, Ministry of Education of China (Top 0.2% in China) (2019, 2020)
 
-**1st Prize in the National College Student Information Security Contest**, China Internet Development Foundation (2020)
-
-**Cybersecurity Merit Student Scholarship**, Sichuan University (2019)
 
 
 
