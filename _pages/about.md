@@ -26,6 +26,8 @@ I am interested in the intersection of security, software systems, and data. To 
 
 In my free time, I am into table tennis, running, science fictions, and livehouse band performance.
 
+A special thank you goes to [Yihao](https://www.usenix.org/conference/usenixsecurity24/presentation/chen-yihao) for taking this profile photo.
+
 
 # News
 **[Jan 2025]** *RansomRadar* is accepted to FSE'25. This year's conference will be co-located with ISSTA'25 in Norway. 🎉
