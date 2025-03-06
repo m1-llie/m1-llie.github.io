@@ -186,8 +186,6 @@ Sep 2022 - June 2025(expected), M.Eng. in Software Engineering, **Tsinghua Unive
 
 Sep 2018 - June 2022, B.Eng. in Cybersecurity, **Sichuan University**. GPA 3.96/4.0, Ranked 1/172
 
-July 2019, Summer Session in EECS, **University of California, Berkeley**.
-
 
 
 # Academic Service
